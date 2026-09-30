@@ -1,0 +1,10 @@
+export type Candidate = { id:string;name:string;short_name:string;party:string;fictional:boolean;source_count:number };
+export type Citation = {source_id:string;chunk_id?:string;quote?:string};
+export type Message = {id:string;candidate_id:string;phase:string;content:string;timestamp:string;label:string;citations:Citation[];confidence:string;validation?:{valid:boolean;reasons:string[]}};
+export type Source = {id:string;candidate_id:string;title:string;url:string;publisher:string;source_type:string;publication_date:string|null;election_year:number|null;retrieved_at:string;content_hash:string};
+export type Edge = {source:string;target:string;conditional:boolean};
+export type Graph = {nodes:string[];edges:Edge[];mermaid:string;candidate_subgraph:{nodes:string[];edges:Edge[];mermaid:string}};
+export type NodeEvent = {node:string;duration_ms:number;tokens:number;model:string;retrieval_count:number;retrieval_query:string;retrieval_latency_ms?:number};
+export type Evidence = Source & {source_id:string;chunk_id:string;content:string;similarity:number;tier:number};
+export type GraphState = {current_phase?:string;current_speaker?:string;retrieved_context?:Evidence[];research?:{evidence:Evidence[];queries:string[];discoveries:{title:string;url:string}[]};execution_metadata?:NodeEvent[];[key:string]:unknown};
+export type SavedSession = {id:string;topic:string;status:string;created_at:string;messages:Message[];configuration:Record<string,unknown>;execution_metadata:NodeEvent[];token_usage:number;latency_ms:number};

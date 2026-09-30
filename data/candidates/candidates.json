@@ -1,0 +1,58 @@
+[
+  {
+    "id": "lula",
+    "name": "Luiz Inácio Lula da Silva",
+    "short_name": "Lula",
+    "party": "PT",
+    "fictional": false,
+    "requested_style": "Vocativo ocasional 'companheiros'; cadência oral, linguagem acessível e direta."
+  },
+  {
+    "id": "flavio",
+    "name": "Flávio Bolsonaro",
+    "short_name": "Flávio Bolsonaro",
+    "party": "PL",
+    "fictional": false,
+    "requested_style": "Tom combativo e sarcástico nas réplicas; ironia verbal, frases incisivas."
+  },
+  {
+    "id": "cury",
+    "name": "Augusto Cury",
+    "short_name": "Augusto Cury",
+    "party": "Avante",
+    "fictional": false,
+    "requested_style": ""
+  },
+  {
+    "id": "caiado",
+    "name": "Ronaldo Caiado",
+    "short_name": "Ronaldo Caiado",
+    "party": "PSD",
+    "fictional": false,
+    "requested_style": ""
+  },
+  {
+    "id": "renan",
+    "name": "Renan Santos",
+    "short_name": "Renan Santos",
+    "party": "Missão",
+    "fictional": false,
+    "requested_style": ""
+  },
+  {
+    "id": "atlas",
+    "name": "Atlas · agente fictício",
+    "short_name": "Atlas",
+    "party": "Fixture A",
+    "fictional": true,
+    "requested_style": ""
+  },
+  {
+    "id": "nova",
+    "name": "Nova · agente fictício",
+    "short_name": "Nova",
+    "party": "Fixture B",
+    "fictional": true,
+    "requested_style": ""
+  }
+]

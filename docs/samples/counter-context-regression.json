@@ -1,0 +1,427 @@
+{
+  "test": "focused_counter_replay",
+  "original_session_id": "18b0823e-ece4-4900-9cdc-f3c3b940728c",
+  "preceding_exchange": [
+    {
+      "id": "a9fb36a1-a2f0-4190-8bfe-755366d71fdc",
+      "candidate_id": "lula",
+      "phase": "QUESTION",
+      "content": "Flávio, você que defende a liberdade de mercado, como pretende justificar a permissão das bets, sabendo que elas corroem a renda das famílias mais vulneráveis e alimentam o endividamento? Não acha que o Estado tem o dever de proteger o povo contra esse tipo de exploração, mesmo que isso signifique restringir o mercado?",
+      "timestamp": "2026-09-30T00:39:40.009970+00:00",
+      "label": "AI-generated simulation based on public sources.",
+      "citations": [
+        {
+          "source_id": "a3d7dfc2-66a0-4d41-8c5a-a8e3f24b71d2"
+        },
+        {
+          "source_id": "41ba338b-3028-41d4-b77a-52c9900c6eb4"
+        },
+        {
+          "source_id": "443b3095-5e40-42e9-9094-879a81953c9b"
+        }
+      ],
+      "claims": [],
+      "confidence": "LOW",
+      "validation": {}
+    },
+    {
+      "id": "dd64a979-d73f-48dc-853a-caa37aa16f95",
+      "candidate_id": "flavio",
+      "phase": "ANSWER",
+      "content": "Lula, vamos combinar: restringir o mercado para \"proteger\" as famílias vulneráveis é um tapa na cara da liberdade individual e uma solução rasa que não ataca o verdadeiro problema. O que empurra essas famílias para o endividamento não é o mercado de apostas, mas sim o custo absurdo do dinheiro, fruto do gasto público descontrolado e da dívida pública crescente. Proibir apostas não vai baixar os juros nem fazer o salário render mais no fim do mês. \n\nNosso governo vai proibir o uso dos recursos dos programas sociais para apostas, porque dinheiro destinado a pôr comida na mesa não pode escoar para a casa de apostas, e promover campanhas educativas para conscientizar sobre os riscos do endividamento com jogos. Mas isso é só parte da solução. A raiz está na responsabilidade fiscal: ao estabilizar e reduzir a dívida pública, criaremos condições para que os juros básicos fiquem em linha com a média internacional, tornando o crédito acessível e justo para as famílias. \n\nQuer dizer que a solução é um Estado paternalista que proíbe o mercado, mas não resolve o problema estrutural da economia que empurra as famílias para o vermelho? Parece que o senhor prefere tapar o sol com a peneira em vez de enfrentar a raiz do problema. Está pronto para encarar essa realidade?",
+      "timestamp": "2026-09-30T00:40:00.460086+00:00",
+      "label": "AI-generated simulation based on public sources.",
+      "citations": [
+        {
+          "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+          "chunk_id": "b9b67f11-3883-4734-9d8f-9ae4be82ed54",
+          "quote": "Vamos proibir o uso dos \nrecursos dos programas sociais para apostas, porque dinheiro destinado a \npôr comida na mesa não pode escoar para a casa de apostas, e promover \ncampanhas educativas e de conscientização sobre os riscos do \nendividamento com jogos."
+        },
+        {
+          "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+          "chunk_id": "b9b67f11-3883-4734-9d8f-9ae4be82ed54",
+          "quote": "Ao estabilizar e reduzir a dívida pública, nosso governo vai criar as condições \npara que os juros básicos fiquem em linha com a média internacional e para \nque a inflação volte ao centro da meta."
+        }
+      ],
+      "claims": [
+        {
+          "text": "Vamos proibir o uso dos recursos dos programas sociais para apostas, porque dinheiro destinado a pôr comida na mesa não pode escoar para a casa de apostas, e promover campanhas educativas e de conscientização sobre os riscos do endividamento com jogos.",
+          "citations": [
+            {
+              "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+              "chunk_id": "b9b67f11-3883-4734-9d8f-9ae4be82ed54",
+              "quote": "Vamos proibir o uso dos \nrecursos dos programas sociais para apostas, porque dinheiro destinado a \npôr comida na mesa não pode escoar para a casa de apostas, e promover \ncampanhas educativas e de conscientização sobre os riscos do \nendividamento com jogos."
+            }
+          ]
+        },
+        {
+          "text": "Ao estabilizar e reduzir a dívida pública, nosso governo vai criar as condições para que os juros básicos fiquem em linha com a média internacional e para que a inflação volte ao centro da meta.",
+          "citations": [
+            {
+              "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+              "chunk_id": "b9b67f11-3883-4734-9d8f-9ae4be82ed54",
+              "quote": "Ao estabilizar e reduzir a dívida pública, nosso governo vai criar as condições \npara que os juros básicos fiquem em linha com a média internacional e para \nque a inflação volte ao centro da meta."
+            }
+          ]
+        }
+      ],
+      "confidence": "HIGH",
+      "validation": {
+        "valid": true,
+        "unsupported_claims": [],
+        "reasons": [
+          "A afirmação sobre a proibição do uso dos recursos dos programas sociais para apostas e a promoção de campanhas educativas está explicitamente citada no programa de governo do candidato Flávio: 'Vamos proibir o uso dos recursos dos programas sociais para apostas, porque dinheiro destinado a pôr comida na mesa não pode escoar para a casa de apostas, e promover campanhas educativas e de conscientização sobre os riscos do endividamento com jogos.' (source_id: 443b3095-5e40-42e9-9094-879a81953c9b, chunk_id: b9b67f11-3883-4734-9d8f-9ae4be82ed54)",
+          "A declaração sobre a estabilização e redução da dívida pública para criar condições para que os juros básicos fiquem em linha com a média internacional está claramente fundamentada no mesmo documento: 'Ao estabilizar e reduzir a dívida pública, nosso governo vai criar as condições para que os juros básicos fiquem em linha com a média internacional e para que a inflação volte ao centro da meta.' (source_id: 443b3095-5e40-42e9-9094-879a81953c9b, chunk_id: b9b67f11-3883-4734-9d8f-9ae4be82ed54)",
+          "O texto do candidato apresenta uma argumentação coerente e diretamente suportada pelo programa oficial, sem extrapolações ou afirmações não respaldadas."
+        ],
+        "attempts": [
+          {
+            "valid": true,
+            "unsupported_claims": [],
+            "reasons": [
+              "A afirmação sobre a proibição do uso dos recursos dos programas sociais para apostas e a promoção de campanhas educativas está explicitamente citada no programa de governo do candidato Flávio: 'Vamos proibir o uso dos recursos dos programas sociais para apostas, porque dinheiro destinado a pôr comida na mesa não pode escoar para a casa de apostas, e promover campanhas educativas e de conscientização sobre os riscos do endividamento com jogos.' (source_id: 443b3095-5e40-42e9-9094-879a81953c9b, chunk_id: b9b67f11-3883-4734-9d8f-9ae4be82ed54)",
+              "A declaração sobre a estabilização e redução da dívida pública para criar condições para que os juros básicos fiquem em linha com a média internacional está claramente fundamentada no mesmo documento: 'Ao estabilizar e reduzir a dívida pública, nosso governo vai criar as condições para que os juros básicos fiquem em linha com a média internacional e para que a inflação volte ao centro da meta.' (source_id: 443b3095-5e40-42e9-9094-879a81953c9b, chunk_id: b9b67f11-3883-4734-9d8f-9ae4be82ed54)",
+              "O texto do candidato apresenta uma argumentação coerente e diretamente suportada pelo programa oficial, sem extrapolações ou afirmações não respaldadas."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "9eac7417-07ec-4943-a214-d6a9c249b1c6",
+      "candidate_id": "lula",
+      "phase": "REBUTTAL",
+      "content": "Flávio, companheiro, você insiste que o problema do endividamento das famílias é só o custo do dinheiro, fruto do gasto público e da dívida. Mas veja bem: o mercado de apostas não é um detalhe, é um predador que suga o pouco que o povo tem, aprofundando a desigualdade e a vulnerabilidade social. Não dá para fingir que só baixar juros vai resolver o drama de quem perde o pouco que tem apostando, enquanto o Estado assiste passivo. A liberdade individual não pode ser desculpa para exploração econômica que mina direitos básicos, como a alimentação e a dignidade. O Estado tem o dever de intervir, regular e proteger. Por isso, vamos manter os mecanismos de controle de gastos excessivos em apostas on-line e aprimorar as regras de oferta e responsabilidade na concessão de crédito, conferindo maior proteção aos consumidores. Isso não é tapar o sol com a peneira, é agir com responsabilidade social e econômica. Então me diga, Flávio: você prefere deixar o mercado predatório agir livremente e empurrar as famílias para o abismo, ou vai assumir o papel do Estado protetor que o povo tanto precisa?",
+      "timestamp": "2026-09-30T00:40:21.419729+00:00",
+      "label": "AI-generated simulation based on public sources.",
+      "citations": [
+        {
+          "source_id": "fe452c81-a4f8-403a-92a7-4bb0d7a33eba",
+          "chunk_id": "b0918cff-ef93-455e-88bb-906297e4a156",
+          "quote": "os mecanismos de controle de gastos excessivos em apostas on-line e \naprimorando as regras de oferta e responsabilidade na concessão de crédito, \nconferindo maior proteção aos consumidores."
+        }
+      ],
+      "claims": [
+        {
+          "text": "O mercado de apostas funciona como um mecanismo que extrai renda das famílias vulneráveis, agravando seu endividamento e comprometendo sua segurança econômica, o que não é resolvido apenas pela redução dos juros.",
+          "citations": [
+            {
+              "source_id": "fe452c81-a4f8-403a-92a7-4bb0d7a33eba",
+              "chunk_id": "b0918cff-ef93-455e-88bb-906297e4a156",
+              "quote": "os mecanismos de controle de gastos excessivos em apostas on-line e \naprimorando as regras de oferta e responsabilidade na concessão de crédito, \nconferindo maior proteção aos consumidores."
+            }
+          ]
+        },
+        {
+          "text": "A liberdade individual não pode ser invocada para justificar a exploração econômica que mina direitos sociais básicos, como o direito à alimentação e à dignidade, pois o Estado tem o dever de intervir para proteger coletivamente essas garantias.",
+          "citations": [
+            {
+              "source_id": "fe452c81-a4f8-403a-92a7-4bb0d7a33eba",
+              "chunk_id": "b0918cff-ef93-455e-88bb-906297e4a156",
+              "quote": "os mecanismos de controle de gastos excessivos em apostas on-line e \naprimorando as regras de oferta e responsabilidade na concessão de crédito, \nconferindo maior proteção aos consumidores."
+            }
+          ]
+        },
+        {
+          "text": "Além da política fiscal, é fundamental fortalecer mecanismos de controle sobre gastos excessivos em apostas e aprimorar regras de oferta e responsabilidade na concessão de crédito, para evitar que o endividamento se agrave por práticas predatórias do mercado, complementando a política econômica estrutural.",
+          "citations": [
+            {
+              "source_id": "fe452c81-a4f8-403a-92a7-4bb0d7a33eba",
+              "chunk_id": "b0918cff-ef93-455e-88bb-906297e4a156",
+              "quote": "os mecanismos de controle de gastos excessivos em apostas on-line e \naprimorando as regras de oferta e responsabilidade na concessão de crédito, \nconferindo maior proteção aos consumidores."
+            }
+          ]
+        }
+      ],
+      "confidence": "HIGH",
+      "validation": {
+        "valid": true,
+        "unsupported_claims": [],
+        "reasons": [
+          "O programa de governo do candidato Lula menciona explicitamente a manutenção de mecanismos de controle de gastos excessivos em apostas on-line e o aprimoramento das regras de oferta e responsabilidade na concessão de crédito, com o objetivo de conferir maior proteção aos consumidores, o que sustenta a afirmação de que o mercado de apostas funciona como um mecanismo que extrai renda das famílias vulneráveis e que não é resolvido apenas pela redução dos juros (source_id: fe452c81-a4f8-403a-92a7-4bb0d7a33eba, chunk_id: b0918cff-ef93-455e-88bb-906297e4a156).",
+          "A mesma fonte reforça que o Estado tem o dever de intervir para proteger direitos sociais básicos, como alimentação e dignidade, por meio desses mecanismos de controle e aprimoramento das regras de crédito, sustentando a afirmação sobre a limitação da liberdade individual para evitar exploração econômica (source_id: fe452c81-a4f8-403a-92a7-4bb0d7a33eba, chunk_id: b0918cff-ef93-455e-88bb-906297e4a156).",
+          "Além disso, o programa destaca a importância de fortalecer esses mecanismos para evitar que o endividamento se agrave por práticas predatórias do mercado, complementando a política econômica estrutural, o que corrobora a terceira afirmação (source_id: fe452c81-a4f8-403a-92a7-4bb0d7a33eba, chunk_id: b0918cff-ef93-455e-88bb-906297e4a156)."
+        ],
+        "attempts": [
+          {
+            "valid": true,
+            "unsupported_claims": [],
+            "reasons": [
+              "O programa de governo do candidato Lula menciona explicitamente a manutenção de mecanismos de controle de gastos excessivos em apostas on-line e o aprimoramento das regras de oferta e responsabilidade na concessão de crédito, com o objetivo de conferir maior proteção aos consumidores, o que sustenta a afirmação de que o mercado de apostas funciona como um mecanismo que extrai renda das famílias vulneráveis e que não é resolvido apenas pela redução dos juros (source_id: fe452c81-a4f8-403a-92a7-4bb0d7a33eba, chunk_id: b0918cff-ef93-455e-88bb-906297e4a156).",
+              "A mesma fonte reforça que o Estado tem o dever de intervir para proteger direitos sociais básicos, como alimentação e dignidade, por meio desses mecanismos de controle e aprimoramento das regras de crédito, sustentando a afirmação sobre a limitação da liberdade individual para evitar exploração econômica (source_id: fe452c81-a4f8-403a-92a7-4bb0d7a33eba, chunk_id: b0918cff-ef93-455e-88bb-906297e4a156).",
+              "Além disso, o programa destaca a importância de fortalecer esses mecanismos para evitar que o endividamento se agrave por práticas predatórias do mercado, complementando a política econômica estrutural, o que corrobora a terceira afirmação (source_id: fe452c81-a4f8-403a-92a7-4bb0d7a33eba, chunk_id: b0918cff-ef93-455e-88bb-906297e4a156)."
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "argument_plan": {
+    "opponent_point": "O mercado de apostas funciona como um mecanismo que extrai renda das famílias vulneráveis, agravando seu endividamento e comprometendo sua segurança econômica, o que não é resolvido apenas pela redução dos juros. O Estado deve intervir com mecanismos de controle e regras para proteger os consumidores.",
+    "ideological_lens": "Direita: autonomia individual, liberdade econômica, responsabilidade fiscal, ceticismo quanto ao controle estatal excessivo; valoriza soluções estruturais e práticas em vez de paternalismo estatal.",
+    "disagreement": "O controle estatal sobre gastos em apostas e regras de crédito pode ser ineficiente, difícil de fiscalizar e gerar mercados paralelos, além de não atacar a causa estrutural do endividamento familiar, que é o custo do dinheiro e a dívida pública.",
+    "reasoning_steps": [
+      "Primeiro, o mecanismo de controle estatal sobre gastos em apostas e oferta de crédito é incompleto porque enfrenta problemas práticos de fiscalização e pode incentivar a criação de mercados paralelos, onde o controle é ainda mais difícil e a vulnerabilidade das famílias aumenta.",
+      "Segundo, o valor da autonomia individual e da liberdade econômica está em jogo: restringir excessivamente o mercado para \"proteger\" pode acabar tirando a capacidade das pessoas de decidir sobre seus próprios recursos, além de prejudicar a economia formal e a geração de empregos.",
+      "Terceiro, a política fiscal e o controle da dívida pública são fundamentais para reduzir o custo do dinheiro, que é a verdadeira raiz do endividamento das famílias. Sem atacar essa causa estrutural, qualquer controle pontual será apenas paliativo e ineficaz a longo prazo.",
+      "Assim, a análise do problema do endividamento familiar e das apostas deve priorizar a responsabilidade fiscal e a redução dos juros, complementada por medidas educativas e proibição do uso de recursos sociais para apostas, em vez de controles estatais amplos e paternalistas."
+    ],
+    "rhetorical_jab": "Lula, seu plano de \"proteger\" as famílias com controles estatais é como tentar apagar incêndio com gasolina: cria mais problemas e não resolve a raiz do fogo, que é o custo absurdo do dinheiro que o próprio Estado alimenta.",
+    "new_angle": "Vou explorar a limitação prática e os efeitos perversos da intervenção estatal direta no mercado de apostas e crédito, mostrando que a regulação excessiva pode piorar a situação das famílias vulneráveis ao criar mercados paralelos e restringir a autonomia individual, enquanto a solução estrutural está na responsabilidade fiscal e na redução da dívida pública.",
+    "factual_anchors": []
+  },
+  "playbook": {
+    "candidate_id": "flavio",
+    "name": "Flávio Bolsonaro",
+    "party": "PL",
+    "policy_positions": [
+      {
+        "area": "Segurança Pública",
+        "position": "Combate rigoroso ao crime organizado com uso de inteligência, força militar e redução da maioridade penal para 16 anos.",
+        "citations": [
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "57b4a9ae-4381-4023-8830-a4a9671d35bd",
+            "quote": "UM NOVO CAMINHO ................................................................................................................................................................................... 12 \nBRASIL SEM MEDO ............................................................................................................................................................. 13 \nTERRORISTA VAI SER TRATADO COMO TERRORISTA ............................................................................................................................. 13 \nO CRIME DO MENOR NÃO É MENOR ......................................................................................................................................................... 13 \nTROPA DE ELITE NAS FRONTEIRAS .......................................................................................................................................................... 13"
+          },
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "dfe86c90-5a81-4b7e-b5eb-b93087cc1426",
+            "quote": "Vamos declarar guerra ao crime organizado. PCC, CV, milícias e todas as outras \nfacções serão declaradas como organizações narcoterroristas. Elas serão \ncombatidas com força, inteligência e integração para que seus líderes sejam \npresos e seus negócios ilícitos, asfixiados. Vamos seguir o dinheiro do crime: \nbloquearemos ativos e desarticularemos a lavagem de dinheiro que sustenta \nas facções. Bandido armado com fuzil na mão vai ser abatido pelas forças de \nsegurança. Vamos fazer consórcios e convênios com estados e municípios \npara investir em inteligência, retomada de territórios alinhada a políticas \npúblicas estruturantes, tecnologia, armamentos de última geração e \nvalorização do policial. Quem vai voltar a mandar no Brasil será a lei. \nO crime do menor não é menor \nO novo governo do Brasil vai apoiar e sancionar a redução da maioridade \npenal de 18 para 16 anos. Vamos punir também maiores de 14 anos que"
+          },
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "cf6fd15d-6a05-40c7-8960-a89ae3393ea1",
+            "quote": "O crime do menor não é menor \nO novo governo do Brasil vai apoiar e sancionar a redução da maioridade \npenal de 18 para 16 anos. Vamos punir também maiores de 14 anos que \ncometerem crimes graves, como estupro, tráfico, tortura e assassinato. Quem \ncomete crime como gente grande vai ser punido como gente grande. \nTropa de elite nas fronteiras \nHoje, temos 16 mil quilômetros de fronteiras abertas e um efetivo de 1 policial \npara cada 100 quilômetros. Esse “liberou geral” vai acabar. Vamos criar o \nSistema Nacional de Fronteira, uma tropa de elite do Exército, da Marinha e"
+          },
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "19237306-2f97-406e-beb6-a1e37cfe2c08",
+            "quote": "14 \n \nda Força Aérea Brasileira, equipada com armas de guerra, inteligência e \ntecnologia, responsável por criar um paredão na fronteira. Fuzis e drogas que \nabastecem 100% das facções serão interceptados por terra, pelos portos e pelo \nespaço aéreo. Vamos desorganizar o crime organizado e asfixiar o crime \nfísica e financeiramente. \nMais presídios, menos bandidos soltos \nO Brasil terá 5 novos presídios de segurança máxima no modelo adotado por \nEl Salvador. Junto com os atuais 5 presídios federais, eles formarão o Complexo \nFederal de Segurança Máxima. Para tirar o medo do cidadão e botar medo no \nbandido, ele vai se chamar TREVA. Chefes de quadrilha e marginais de alta \npericulosidade serão tirados de circulação e isolados. Com isso, os bandidos \nvão deixar de controlar as facções criminosas de dentro dos presídios, como \nocorre hoje. Eles vão viver sem celular, sem visita íntima e com visitas \nmonitoradas. Em parceria com os governos estaduais, vamos criar meio"
+          }
+        ]
+      },
+      {
+        "area": "Segurança Pública",
+        "position": "Tolerância zero para feminicídio e crimes hediondos, com monitoramento eletrônico e fim da progressão de pena.",
+        "citations": [
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "b998e4a9-de4c-490b-a58e-274d6b341e1d",
+            "quote": "MAIS PRESÍDIOS, MENOS BANDIDOS SOLTOS ......................................................................................................................................... 14 \nCORTAR O MAL PELA RAIZ ........................................................................................................................................................................ 14 \nTOLERÂNCIA ZERO PARA O FEMINICÍDIO ................................................................................................................................................ 14 \nACABAR COM A COCAÍNA “MADE IN BRAZIL” ......................................................................................................................................... 15 \nMENOS VERBO MAIS VERBA ...................................................................................................................................................................... 15"
+          },
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "f4b7228e-ef1e-4ef7-98c8-66d2bfb5f9d6",
+            "quote": "mais duras permitidas pela lei. \nTolerância zero para o feminicídio \nMedida protetiva vai deixar de ser um pedaço de papel para ser um \ninstrumento real de proteção às mulheres. Os agressores das mais de meio \nmilhão de mulheres com medida protetiva no Brasil serão monitorados pelas \nautoridades com o uso de tornozeleiras eletrônicas. Vamos endurecer a lei e \nobrigar assassinos e agressores de mulheres a cumprir integralmente suas \npenas. Porque hoje o sistema liberta criminosos depois de 55% do tempo da \npena. Isso vai acabar. É cadeia o tempo todo: do primeiro ao último dia."
+          },
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "39e43443-123b-4a04-aa7a-1c21e8701478",
+            "quote": "Terras indígenas e quilombolas ...................................... 50 \nSEGURANÇA PÚBLICA \nAuxílio às famílias das vítimas ......................................... 15 \nCastração química para estupradores .......................... 14 \nFacções e crime organizado .............................................. 13 \nFeminicídio - Canais de denúncia ................................... 18 \nFeminicídio - tolerância zero ............................................ 14 \nFronteiras ................................................................................. 13 \nInvestimento em segurança pública ............................. 15 \nMaioridade penal ................................................................... 13 \nPresídios .................................................................................... 14 \nProgressão de pena zero para crimes hediondos .... 15 \nReconhecimento facial ........................................................ 15"
+          },
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "fc684b41-9cfa-496e-b6f3-2451c4005231",
+            "quote": "15 \n \nAcabar com a cocaína “made in Brazil” \nNão plantamos coca nem produzimos cocaína. Mas, sob Lula e o PT, o Porto \nde Santos se tornou um dos maiores exportadores de cocaína do mundo. Nós \nvamos usar tropas especiais da Marinha e da Aeronáutica para ocupar e \nmonitorar, de forma permanente, os portos e aeroportos brasileiros. \nTraficante que resistir e enfrentar o Estado vai ser preso ou vai virar pó. \nMenos verbo mais verba \nO novo governo do Brasil vai dobrar os investimentos federais em segurança \npública ao longo do mandato. O blá-blá-blá ideológico da esquerda não traz \nresultados práticos. Dados do Ministério da Fazenda apontam que o Governo \nFederal destina somente 0,4% dos seus gastos à segurança pública. Assim, fica \ndifícil combater o crime. Quem tem que viver em paz é o cidadão de bem, não \nas facções do mal. Não se combate o crime a quatro meses de uma eleição \ncom discurso e PowerPoint, como faz Lula e o PT, depois de 18 anos no poder"
+          }
+        ]
+      },
+      {
+        "area": "Tecnologia",
+        "position": "Digitalizar 100% dos serviços públicos, implantar identidade digital única e usar IA para antecipar necessidades do cidadão.",
+        "citations": [
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "e64d3143-e041-416a-9148-9911d294b2e8",
+            "quote": "ESTADO DIGITAL: TODOS OS SERVIÇOS NA PALMA DA MÃO ................................................................................................................. 24 \nINTELIGÊNCIA ARTIFICIAL A SERVIÇO DO CIDADÃO .............................................................................................................................. 25 \nSAÚDE DIGITAL E PRONTUÁRIO ELETRÔNICO ÚNICO ............................................................................................................................ 25 \nINSS SEM FILA ........................................................................................................................................................................................... 26 \nDESBUROCRATIZAÇÃO PARA QUEM EMPREENDE .................................................................................................................................. 27"
+          },
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "cb2eb539-1e93-4471-99af-2d668ebab6a7",
+            "quote": "graças ao trabalho do governo Bolsonaro. Vamos aprofundar essa liderança e \nfazê-la chegar a cada brasileiro, onde quer que ele viva, até que nenhum \nserviço público exija sair de casa ou perder o dia de trabalho. \nInteligência artificial a serviço do cidadão \no governo se antecipa à sua necessidade \n A inteligência artificial não precisa ser uma abstração distante. Bem usada \npelo Estado, ela é o que permite que o governo antecipe a necessidade do \ncidadão, em vez de esperar que ele descubra sozinho a porta certa. \nAssistentes automatizados vão indicar a cada brasileiro os serviços e \nbenefícios a que ele tem direito e o caminho para obtê-los, sem que ele \nprecise descobrir sozinho a qual órgão recorrer. A ClarIA, apresentada no \nBrasil por Elas, acompanhará cada cidadão em sua jornada. E um aplicativo \nde companhia e alerta dará mais segurança a quem vive sozinho na terceira \nidade. \nO objetivo é simples: que o cidadão precise saber cada vez menos sobre como"
+          },
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "fb210d4c-c750-493f-ae3b-799754a30317",
+            "quote": "de companhia e alerta dará mais segurança a quem vive sozinho na terceira \nidade. \nO objetivo é simples: que o cidadão precise saber cada vez menos sobre como \no governo funciona por dentro para conseguir o que precisa dele. \nSaúde digital e prontuário eletrônico único \nseu histórico de saúde vai com você \nTodos os anos, milhares de brasileiros morrem de doenças que poderiam ter \nsido tratadas a tempo, porque a informação sobre a própria saúde está"
+          }
+        ]
+      },
+      {
+        "area": "Economia",
+        "position": "Reduzir impostos sobre consumo e produção, corrigir distorções da reforma tributária e simplificar legislação para estimular formalização e crescimento.",
+        "citations": [
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "08c943f7-0de1-4b76-99ee-51d5116c42ec",
+            "quote": "DESBUROCRATIZAÇÃO PARA QUEM EMPREENDE .................................................................................................................................. 27 \nMENOS BUROCRACIA NO CAMPO .............................................................................................................................................................. 27 \nBRASIL MAIS BARATO ....................................................................................................................................................... 29 \nMENOS IMPOSTO NO QUE VOCÊ CONSOME ............................................................................................................................................. 30 \nCONTA DE LUZ MAIS SIMPLES E MAIS BARATA ....................................................................................................................................... 31"
+          },
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "6b9df667-abd4-4162-b69f-5860698397aa",
+            "quote": "MENOS IMPOSTOS: A REFORMA TRIBUTÁRIA CORRIGIDA .................................................................................................................... 71 \nO LADO DOS APOSENTADOS: FIM DAS FRAUDES .................................................................................................................................... 72 \nCONCLUSÃO: UM CONVITE À NAÇÃO (O BRASIL VAI VENCER) ............................................................................ 74"
+          },
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "284a8632-16bd-48af-aa62-61ce6655f2f6",
+            "quote": "precisa mostrar o que entregou. \nMenos impostos: a reforma tributária corrigida \nA reforma tributária aprovada pela atual gestão foi entregue ao sabor dos \nlobbies. Como toda a transição ficou para os mandatos seguintes, quem \naprovou não se desgastou, e a população ficou com a conta: cerca de R$ 1 \ntrilhão sem fonte orçamentária definida nos dois fundos criados pela reforma, \nalém de mais de R$ 500 bilhões em exceções decorrentes dos lobbies, que \npassaram a ser permanentes. \nVamos promover a revisão e o redimensionamento da reforma tributária em \ncurso e da majoração de impostos efetuada pelo atual governo, com o objetivo \nde reduzir efetivamente a carga sobre a produção e o consumo. Vamos corrigir"
+          },
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "7fc3bd17-dbfd-4db5-b8b3-01df8b2d7725",
+            "quote": "72 \n \nsuas distorções, reduzir o IVA, hoje projetado num dos patamares mais altos \ndo mundo, e assegurar a não cumulatividade, para que não se cobre imposto \nsobre imposto. Assim a reforma fica mais equilibrada, preservando a \nsimplificação e a aderência às melhores práticas internacionais . O esforço de \nsimplificação continuará: menos impostos, legislação unificada, desoneração \ndas exportações e dos investimentos e redução das exceções, para que grupos \nparecidos paguem impostos parecidos. O círculo virtuoso é claro: menos \nimpostos, mais formalidade, mais crescimento. \nO lado dos aposentados: fim das fraudes \nO nosso lugar sempre foi ao lado de quem trabalhou a vida inteira. Em janeiro \nde 2019, a primeira medida do nosso governo, logo após a redução dos \nministérios, foi a MP Antifraudes (MP no 871/2019), que exigiu a revalidação \nanual dos descontos associativos na aposentadoria, cancelando qualquer \ndesconto feito sem o consentimento do aposentado. Foi o primeiro governo"
+          }
+        ]
+      },
+      {
+        "area": "Educação",
+        "position": "Priorizar alfabetização pelo método fônico, gestão por resultados, qualificação técnica alinhada ao mercado e combate à doutrinação política.",
+        "citations": [
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "db5a126f-ccea-4f8c-bd41-916671c5634a",
+            "quote": "EDUCAÇÃO \nAlfabetização (método fônico) ......................................... 35 \nAltas habilidades .................................................................... 35 \nCapacitação contínua de professores ........................... 35 \nConectividade nas escolas ................................................. 24 \nCreche – ampliação de vagas ............................................ 21 \nEconomia digital no currículo escolar .......................... 35 \nEnsino superior e inovação ............................................... 36 \nEnsino técnico ......................................................................... 36 \nEscola em tempo integral ................................................... 35 \nEscola nas férias ..................................................................... 35 \nEscola sem doutrinação ...................................................... 35 \nEscolas cívico-militares ...................................................... 35"
+          },
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "ac340f18-dd6f-4166-86da-34cf2b7895d7",
+            "quote": "não ensina. Tudo isso faz parte do que é necessário para uma família subir na \nvida pelo próprio esforço. \nO Estado brasileiro tem falhado em quase tudo isso: faltou ensino de \nqualidade, faltou creche para a mãe trabalhar, faltou saúde preventiva e faltou \napoio às famílias que cuidam de um idoso. Gastou-se muito e entregou-se \npouco, porque faltou compromisso com o resultado e sobrou ideologia. \nNo governo Bolsonaro, voltamos a colocar a família no centro das políticas \npúblicas e a defender uma escola que ensina, e não que doutrina, respeitando \nos valores que os pais passam em casa. Vamos retomar esse caminho, \ngarantindo que os bons sistemas e as boas experiências sejam aproveitados \npor toda rede de ensino. Com isso, iremos muito além. \nEnsinar de verdade \nescola boa é escola onde o aluno aprende \nHá anos o Brasil empurra alunos de um ano para o outro sem que eles tenham \naprendido. A criança que não é alfabetizada na idade certa vira o adolescente"
+          },
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "810b307d-2b9a-404f-ac58-60f0d6ddc65d",
+            "quote": "Escolas Cívico-Militares, que uniram disciplina e bom desempenho onde \nforam implantadas, e garantir atendimento ao aluno com altas habilidades, \nque hoje se perde por falta de estímulo: a política nacional que trata do tema \né lei mas segue sem implementação, e nós vamos tirá-la do papel. \nVamos ainda levar robótica, computadores, tablets e internet às escolas, e \nincluir no currículo competências para a economia digital, preparando o \njovem para lidar com o próprio dinheiro, empreender e usar as novas \ntecnologias, entre elas a inteligência artificial. \nApoiamos a escola em tempo integral, para que a criança tenha mais tempo \nde aprendizado, reforço e atividades formativas, e não fique entregue à própria \nsorte no contraturno. Manteremos as escolas abertas nas férias com o Escola"
+          }
+        ]
+      },
+      {
+        "area": "Saúde",
+        "position": "Implantar prontuário eletrônico único, ampliar saúde preventiva, telessaúde e atendimento domiciliar para idosos e pessoas com deficiência.",
+        "citations": [
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "bc98b7e3-62a6-4b8b-998e-29898bf1864c",
+            "quote": "26 \n \nespalhada em papéis, sistemas e unidades que não conversam entre si. O \nmédico que atende hoje não sabe o que outro médico já descobriu. Esse \ntrabalho foi iniciado no Governo Bolsonaro: criamos o Conecte SUS e a rede \nnacional que deu ao cidadão acesso ao seu histórico e começou a conectar os \nsistemas de saúde do país. Agora vamos concluí-lo. \nVamos implantar o prontuário eletrônico único , vinculado ao CPF e \nintegrado ao Gov.br, interoperável entre as redes pública e privada , com \nhistórico completo de consultas, exames, vacinas e prescrições, sempre \nobservados o consentimento do paciente, a LGPD, o sigilo médico e os \nprotocolos de segurança \nO ganho é direto e pode salvar a sua vida. O médico do pronto-socorro saberá \nna hora quais remédios você toma e a que você é alérgico. O especialista não \nvai pedir de novo o exame que você fez no mês passado, nem fazer você \nesperar mais um mês pelo resultado. Um problema detectado no posto de"
+          },
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "caf73546-c243-4ba7-bed0-36402b73f851",
+            "quote": "cidadão tenha atendimento até onde hoje falta. Vamos ampliar a Estratégia \nSaúde da Família, levando o cuidado para perto de casa, e criar o Programa \nde Atendimento aos Idosos, com atendimento facilitado e adequado a quem \nenvelhece, para que o idoso não enfrente o mesmo percurso cansativo de \nsempre para se cuidar. Vamos ainda ampliar o acesso a exames preventivos \ne manter a imunização e o incentivo à produção nacional de vacinas , \nporque prevenir é sempre mais barato e mais humano do que tratar tarde. \nPara usar bem o que já existe, vamos contratar serviços e exames na rede \nprivada nos horários ociosos: há aparelho parado enquanto gente espera \nmeses pelo mesmo exame, e aproveitar essa capacidade é atender mais sem"
+          },
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "59be4779-5bf3-4c8a-b331-7652bb02fe46",
+            "quote": "38 \n \nconstruir do zero. Vamos também fortalecer a Rede Nacional de Hospitais \nInteligentes (EBSERH), modernizando os hospitais universitários federais. \nVamos também levar o atendimento até quem não consegue chegar até ele. \nCom a telessaúde e o teleatendimento por aplicativo, médicos de regiões \ncom baixa demanda poderão atender pacientes onde as filas são longas, \naproximando o cuidado de quem vive longe de um grande centro. E um \nsistema de entrega de remédio em domicílio vai garantir que o idoso, a \npessoa com deficiência e o doente crônico não precisem escolher entre buscar \no tratamento e pagar o transporte. \nA tecnologia também ajuda a cuidar antes de a doença se agravar. Com \ninteligência artificial de apoio à prevenção , o sistema poderá identificar \nquem corre maior risco de adoecer e chamar essa pessoa para se cuidar a \ntempo, em vez de esperar que ela chegue ao pronto -socorro quando já é \ngrave. É a diferença entre tratar no começo e tratar quando já não há muito a"
+          }
+        ]
+      },
+      {
+        "area": "Social",
+        "position": "Manter programas sociais com foco na qualificação e trabalho, ampliando creches, apoio a idosos e pessoas com deficiência.",
+        "citations": [
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "b7107daa-7481-4535-b92a-ee44a84131b5",
+            "quote": "ASSISTÊNCIA SOCIAL \nApostas - conscientização .................................................. 33 \nApostas com recurso de programas sociais ............... 33 \nCasa Verde e Amarela .......................................................... 47 \nIdosos - Casa segura para envelhecer .......................... 39 \nIdosos - Instituições de longa permanência .............. 39 \nMobilidade social ................................................................... 42 \nProgramas sociais - manutenção ....................................... 42 \nProgramas sociais - prioridade nas ações do Estado .... 43 \nRetorno sem fila pós seguro desemprego .................. 43 \nTrilha de qualificação .......................................................... 43 \nVoucher educacional em falta de vagas ....................... 35 \nVoucher-creche ...................................................................... 21 \nCULTURA"
+          },
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "e270f546-9605-4c5b-beef-348a7d6384af",
+            "quote": "43 \n \nPor isso, o beneficiário de programa social terá prioridade em todas as \nações do Estado voltadas ao trabalho: prioridade nos programas de primeiro \nemprego, nas ações de qualificação profissional e na intermediação de mão \nde obra. Criaremos uma trilha de qualificação e intermediação desenhada \nespecialmente para quem recebe o benefício, para que a saída não seja um \nsalto no escuro, mas um caminho com apoio em cada passo. E garantiremos \no retorno imediato e sem fila ao benefício após o seguro-desemprego, \nmantidas as condições de elegibilidade, para que ninguém tenha medo de \ntentar um emprego e acabar desamparado se não der certo. \nNosso foco é a superação da armadilha da pobreza, não a sua \nadministração. Toda política deste governo será desenhada com uma \npergunta em mente: isso ajuda a pessoa a depender menos do Estado \namanhã do que ela depende hoje? Porque o objetivo de um bom governo não \né ter mais gente na fila do auxílio. É ter cada vez mais brasilei ros que"
+          },
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "548b5460-b45b-430e-b9a2-64171787e34e",
+            "quote": "cuidar. O Estado não pode assumir esse cuidado no lugar da família, mas pode \ndividi-lo com ela. \nPara as crianças, e também para o apoio às famílias que cuidam de idosos e \npessoas com deficiência, o Brasil por Elas já detalha a ampliação de creches, \no voucher-creche e a Rede Nacional de Cuidado, com centros-dia e \natendimento domiciliar em parceria com estados, municípios e organizações \nsociais."
+          }
+        ]
+      },
+      {
+        "area": "Infraestrutura e Desenvolvimento Regional",
+        "position": "Investir em logística, saneamento, energia barata, irrigação e integração regional para reduzir desigualdades e aumentar competitividade.",
+        "citations": [
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "6235475f-6012-43f3-856d-14a4a2d8d3f5",
+            "quote": "Programa de atendimento aos idosos .......................... 37 \nRede Nacional de Cuidado ................................................. 21 \nINFRAESTRUTURA \nEnergia ....................................................................................... 55 \nFerrovias ................................................................................... 51 \nFinanciamento ........................................................................ 50 \nHidrovias ................................................................................... 51 \nLicenciamento Ambiental .................................................. 49 \nLogística - Corredores logísticos inteligentes .... 31, 51 \nLogística e transporte .......................................................... 50 \nMinerais críticos ..................................................................... 55 \nMobilidade urbana ................................................................ 51"
+          },
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "93fddd38-f2d7-488a-8aad-76af4c031f44",
+            "quote": "conquistou vale mais, dura mais e alcança mais gente. \nVamos fazer o Brasil crescer, e esse é um compromisso central do nosso \ngoverno. O país cresceu, em média, 2% ao ano nas últimas duas décadas, \nmenos do que o mundo. Nossa meta é dobrar esse ritmo e alcançar um \ncrescimento sustentado de 4% ao ano ao longo da próxima década, apoiado \nno investimento privado, na segurança jurídica e na competitividade do agro, \nda indústria e dos serviços. Não é promessa vazia: é o resultado de escolhas \nconcretas, e é delas que trata este capítulo. O papel do Estado aqui não é ser \no empresário, é ser o país que funciona, para que quem produz possa produzir \ne para que o esforço de cada um renda ainda mais. \nSegurança jurídica: a regra do início é a regra do fim \nquem investe precisa confiar que o combinado será cumprido \nNenhum país atrai investimento se muda as regras no meio do jogo, e o Brasil \nganhou fama de fazer exatamente isso: o investidor entra sob uma regra,"
+          },
+          {
+            "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+            "chunk_id": "d2149794-fc0b-4596-8e9a-be86dbe1fb15",
+            "quote": "renda no campo, e vamos concluir sua expansão para multiplicar essa riqueza \npelo sertão. Vamos viabilizar o Trem do Nordeste, 1.400 km de trilhos \ninterligando Salvador, Aracaju, Maceió, Recife, João Pessoa, Natal e Fortaleza, \nabrindo um roteiro entre praias, cidades históricas e polos culturais para \nmovimentar o turismo, a produção e a vida de quem vive ali. E porque não \nbasta produzir, é preciso escoar, concluir a Transnordestina e ampliar o seu \nescopo para que a Paraíba e o Rio Grande do Norte sejam contemplados. \nO Nordeste não é só o passado que resistiu, é o futuro que começa. Tem sol e \nvento de sobra para ser a capital da energia limpa do país, e é essa energia \nfarta e competitiva que vai atrair os data centers e a nova indústria de"
+          }
+        ]
+      }
+    ],
+    "rhetorical_profile": {
+      "recurring_topics": [],
+      "typical_argument_structure": "insufficient evidence",
+      "typical_sentence_length": "insufficient evidence",
+      "vocabulary_characteristics": [],
+      "debate_patterns": []
+    },
+    "source_ids": [
+      "443b3095-5e40-42e9-9094-879a81953c9b"
+    ]
+  },
+  "response": {
+    "content": "Luiz Inácio Lula da Silva, uma frase bonita não é um mecanismo de execução. Qual critério você usaria para evitar que esse controle vire apenas burocracia? É esse detalhe que precisamos esclarecer antes de tratar a promessa como solução.",
+    "candidate_id": "flavio",
+    "phase": "COUNTER_REBUTTAL",
+    "claims": [],
+    "citations": [],
+    "confidence": "LOW"
+  },
+  "validation": {
+    "valid": true,
+    "unsupported_claims": [],
+    "reasons": [
+      "Factual draft rejected; continued with a conceptual policy challenge"
+    ]
+  },
+  "attempts": [
+    {
+      "valid": false,
+      "unsupported_claims": [
+        "A intervenção estatal excessiva em mercados pode restringir a autonomia individual e a liberdade econômica, criando incentivos para mercados paralelos e dificultando a recuperação econômica das famílias.",
+        "O controle estatal sobre gastos em apostas e regras de crédito pode ser ineficiente, difícil de fiscalizar e gerar mercados paralelos, além de não atacar a causa estrutural do endividamento familiar, que é o custo do dinheiro e a dívida pública.",
+        "A educação financeira e a proibição do uso de recursos sociais para apostas são medidas concretas que respeitam a liberdade individual, mas protegem os mais vulneráveis sem ampliar o controle estatal."
+      ],
+      "reasons": [
+        "Uncited claim: A intervenção estatal excessiva em mercados pode restringir a autonomia individual e a liberdade econômica, criando incentivos para mercados paralelos e dificultando a recuperação econômica das famílias.",
+        "Uncited claim: O controle estatal sobre gastos em apostas e regras de crédito pode ser ineficiente, difícil de fiscalizar e gerar mercados paralelos, além de não atacar a causa estrutural do endividamento familiar, que é o custo do dinheiro e a dívida pública."
+      ]
+    },
+    {
+      "valid": false,
+      "unsupported_claims": [
+        "O controle estatal sobre gastos em apostas e regras de crédito pode ser ineficiente, difícil de fiscalizar e gerar mercados paralelos, além de não atacar a causa estrutural do endividamento familiar, que é o custo do dinheiro e a dívida pública.",
+        "A intervenção estatal excessiva em mercados pode restringir a autonomia individual e a liberdade econômica, criando incentivos para mercados paralelos e dificultando a recuperação econômica das famílias.",
+        "Ao estabilizar e reduzir a dívida pública, nosso governo vai criar as condições para que os juros básicos fiquem em linha com a média internacional e para que a inflação volte ao centro da meta.",
+        "Vamos proibir o uso dos recursos dos programas sociais para apostas, porque dinheiro destinado a pôr comida na mesa não pode escoar para a casa de apostas, e promover campanhas educativas e de conscientização sobre os riscos do endividamento com jogos."
+      ],
+      "reasons": [
+        "Uncited claim: O controle estatal sobre gastos em apostas e regras de crédito pode ser ineficiente, difícil de fiscalizar e gerar mercados paralelos, além de não atacar a causa estrutural do endividamento familiar, que é o custo do dinheiro e a dívida pública.",
+        "Uncited claim: A intervenção estatal excessiva em mercados pode restringir a autonomia individual e a liberdade econômica, criando incentivos para mercados paralelos e dificultando a recuperação econômica das famílias."
+      ]
+    },
+    {
+      "valid": false,
+      "unsupported_claims": [
+        "O controle estatal sobre gastos em apostas e regras de crédito pode ser ineficiente, difícil de fiscalizar e gerar mercados paralelos, além de não atacar a causa estrutural do endividamento familiar, que é o custo do dinheiro e a dívida pública.",
+        "A intervenção estatal excessiva em mercados pode restringir a autonomia individual e a liberdade econômica, criando incentivos para mercados paralelos e dificultando a recuperação econômica das famílias."
+      ],
+      "reasons": [
+        "Uncited claim: O controle estatal sobre gastos em apostas e regras de crédito pode ser ineficiente, difícil de fiscalizar e gerar mercados paralelos, além de não atacar a causa estrutural do endividamento familiar, que é o custo do dinheiro e a dívida pública.",
+        "Uncited claim: A intervenção estatal excessiva em mercados pode restringir a autonomia individual e a liberdade econômica, criando incentivos para mercados paralelos e dificultando a recuperação econômica das famílias."
+      ]
+    }
+  ],
+  "retrieval_query": "Esquema de bets no Brasil. Argumento a responder: O mercado de apostas funciona como um mecanismo que extrai renda das famílias vulneráveis, agravando seu endividamento e comprometendo sua segurança econômica, o que não é resolvido apenas pela redução dos juros. A liberdade individual não pode ser invocada para justificar a exploração econômica que mina direitos sociais básicos, como o direito à alimentação e à dignidade, pois o Estado tem o dever de intervir para proteger coletivamente essas garantias. Além da política fiscal, é fundamental fortalecer mecanismos de controle sobre gastos excessivos em apostas e aprimorar regras de oferta e responsabilidade na concessão de crédito, para evitar que o endividamento se agrave por práticas predatórias do mercado, complementando a política econômica estrutural."
+}

@@ -1,0 +1,921 @@
+{
+  "id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+  "topic": "Educação básica e formação de professores",
+  "participants": [
+    "lula",
+    "flavio"
+  ],
+  "configuration": {
+    "candidate_a": "lula",
+    "candidate_b": "flavio",
+    "topic": "Educação básica e formação de professores",
+    "asks_first": "a",
+    "responds_first": "b",
+    "depth": 3,
+    "max_turns": 1,
+    "mode": "live",
+    "pause_after_round": false,
+    "style_mode": "expressive"
+  },
+  "created_at": "2026-09-29T20:52:52.349746-03:00",
+  "status": "complete",
+  "messages": [
+    {
+      "id": "331f37d6-8cbc-4000-8250-5d027881a32e",
+      "candidate_id": "lula",
+      "phase": "QUESTION",
+      "content": "Quais são as propostas dos candidatos para a formação e valorização dos professores na educação básica?",
+      "timestamp": "2026-09-29T23:53:18.510191+00:00",
+      "label": "AI-generated simulation based on public sources.",
+      "citations": [
+        {
+          "source_id": "fe452c81-a4f8-403a-92a7-4bb0d7a33eba"
+        },
+        {
+          "source_id": "443b3095-5e40-42e9-9094-879a81953c9b"
+        }
+      ],
+      "claims": [],
+      "confidence": "LOW",
+      "validation": {}
+    },
+    {
+      "id": "94f9d3ce-25b1-43e5-834b-dd26ba281138",
+      "candidate_id": "flavio",
+      "phase": "ANSWER",
+      "content": "As fontes públicas disponíveis não fornecem evidências suficientes para uma posição simulada confiável sobre este tema.",
+      "timestamp": "2026-09-29T23:53:40.872798+00:00",
+      "label": "AI-generated simulation based on public sources.",
+      "citations": [],
+      "claims": [],
+      "confidence": "LOW",
+      "validation": {
+        "valid": true,
+        "unsupported_claims": [],
+        "reasons": [
+          "Retry limit reached; unsupported response replaced with abstention"
+        ],
+        "attempts": [
+          {
+            "valid": false,
+            "unsupported_claims": [
+              "Os professores terão qualificação contínua baseada em evidências científicas, e não em modismos pedagógicos, com formação que os prepare para ensinar bem, e não para militar em sala de aula.",
+              "A escola será cobrada pelo que existe para fazer. A gestão passa a ser baseada em indicadores de resultado e proficiência, e o financiamento seguirá o orçamento por resultados, com repasses vinculados a metas de aprendizagem.",
+              "Vamos ampliar as Escolas Cívico-Militares, que uniram disciplina e bom desempenho onde foram implantadas."
+            ],
+            "reasons": [
+              "Claim citation absent from response citations",
+              "Claim citation absent from response citations",
+              "Claim citation absent from response citations",
+              "Citation is not from this candidate retrieved context"
+            ]
+          },
+          {
+            "valid": false,
+            "unsupported_claims": [
+              "Os professores terão qualificação contínua baseada em evidências científicas, e não em modismos pedagógicos, com formação que os prepare para ensinar bem, e não para militar em sala de aula.",
+              "A escola será cobrada pelo que existe para fazer. A gestão passa a ser baseada em indicadores de resultado e proficiência, e o financiamento seguirá o orçamento por resultados, com repasses vinculados a metas de aprendizagem.",
+              "Vamos ampliar as Escolas Cívico-Militares, que uniram disciplina e bom desempenho onde foram implantadas."
+            ],
+            "reasons": [
+              "Claim citation absent from response citations",
+              "Claim citation absent from response citations",
+              "Claim citation absent from response citations"
+            ]
+          },
+          {
+            "valid": false,
+            "unsupported_claims": [
+              "Os professores terão qualificação contínua baseada em evidências científicas, e não em modismos pedagógicos, com formação que os prepare para ensinar bem, e não para militar em sala de aula.",
+              "A gestão passa a ser baseada em indicadores de resultado e proficiência, e o financiamento seguirá o orçamento por resultados, com repasses vinculados a metas de aprendizagem.",
+              "Vamos ampliar as Escolas Cívico-Militares, que uniram disciplina e bom desempenho onde foram implantadas."
+            ],
+            "reasons": [
+              "Claim citation absent from response citations",
+              "Claim citation absent from response citations",
+              "Claim citation absent from response citations"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "24fa4f8a-2219-4972-95aa-97f60e3aa8a2",
+      "candidate_id": "lula",
+      "phase": "REBUTTAL",
+      "content": "As fontes públicas disponíveis não fornecem evidências suficientes para uma posição simulada confiável sobre este tema.",
+      "timestamp": "2026-09-29T23:53:55.160259+00:00",
+      "label": "AI-generated simulation based on public sources.",
+      "citations": [],
+      "claims": [],
+      "confidence": "LOW",
+      "validation": {
+        "valid": true,
+        "unsupported_claims": [],
+        "reasons": [
+          "Retry limit reached; unsupported response replaced with abstention"
+        ],
+        "attempts": [
+          {
+            "valid": false,
+            "unsupported_claims": [
+              "Não existe educação de qualidade sem professores qualificados, valorizados e com condições adequadas de trabalho. O Piso Nacional do Magistério será mantido e daremos continuidade às medidas de apoio à formação docente, de elevação da atratividade das licenciaturas, por meio do Pé-de-Meia Licenciatura, e de fixação de docentes em regiões do país e áreas do conhecimento, por meio do Bolsa Mais Professores."
+            ],
+            "reasons": [
+              "Citation excerpt does not exist in retrieved chunk",
+              "Citation excerpt does not exist in retrieved chunk"
+            ]
+          },
+          {
+            "valid": false,
+            "unsupported_claims": [
+              "Não existe educação de qualidade sem professores qualificados, valorizados e com condições adequadas de trabalho. O Piso Nacional do Magistério será mantido e daremos continuidade às medidas de apoio à formação docente, de elevação da atratividade das licenciaturas, por meio do Pé-de-Meia Licenciatura, e de fixação de docentes em regiões do país e áreas do conhecimento, por meio do Bolsa Mais Professores."
+            ],
+            "reasons": [
+              "Citation excerpt does not exist in retrieved chunk",
+              "Citation excerpt does not exist in retrieved chunk"
+            ]
+          },
+          {
+            "valid": false,
+            "unsupported_claims": [
+              "Não existe educação de qualidade sem professores qualificados, valorizados e com condições adequadas de trabalho. O Piso Nacional do Magistério será mantido e daremos continuidade às medidas de apoio à formação docente, de elevação da atratividade das licenciaturas, por meio do Pé-de-Meia Licenciatura, e de fixação de docentes em regiões do país e áreas do conhecimento, por meio do Bolsa Mais Professores."
+            ],
+            "reasons": [
+              "Citation excerpt does not exist in retrieved chunk",
+              "Citation excerpt does not exist in retrieved chunk"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "de5a0f41-3f30-4e24-9044-89f00c11c329",
+      "candidate_id": "flavio",
+      "phase": "COUNTER_REBUTTAL",
+      "content": "As fontes públicas disponíveis não fornecem evidências suficientes para uma posição simulada confiável sobre este tema.",
+      "timestamp": "2026-09-29T23:54:17.024594+00:00",
+      "label": "AI-generated simulation based on public sources.",
+      "citations": [],
+      "claims": [],
+      "confidence": "LOW",
+      "validation": {
+        "valid": true,
+        "unsupported_claims": [],
+        "reasons": [
+          "Retry limit reached; unsupported response replaced with abstention"
+        ],
+        "attempts": [
+          {
+            "valid": false,
+            "unsupported_claims": [
+              "Os professores terão qualificação contínua baseada em evidências científicas, e não em modismos pedagógicos, com formação que os prepare para ensinar bem, e não para militar em sala de aula.",
+              "A escola será cobrada pelo que existe para fazer. A gestão passa a ser baseada em indicadores de resultado e proficiência, e o financiamento seguirá o orçamento por resultados, com repasses vinculados a metas de aprendizagem.",
+              "Vamos ampliar as Escolas Cívico-Militares, que uniram disciplina e bom desempenho onde foram implantadas."
+            ],
+            "reasons": [
+              "Claim citation absent from response citations",
+              "Claim citation absent from response citations",
+              "Claim citation absent from response citations"
+            ]
+          },
+          {
+            "valid": false,
+            "unsupported_claims": [
+              "Os professores terão qualificação contínua baseada em evidências científicas, e não em modismos pedagógicos, com formação que os prepare para ensinar bem, e não para militar em sala de aula.",
+              "A escola será cobrada pelo que existe para fazer. A gestão passa a ser baseada em indicadores de resultado e proficiência, e o financiamento seguirá o orçamento por resultados, com repasses vinculados a metas de aprendizagem.",
+              "Vamos ampliar as Escolas Cívico-Militares, que uniram disciplina e bom desempenho onde foram implantadas."
+            ],
+            "reasons": [
+              "Claim citation absent from response citations",
+              "Claim citation absent from response citations",
+              "Claim citation absent from response citations"
+            ]
+          },
+          {
+            "valid": false,
+            "unsupported_claims": [
+              "Os professores terão qualificação contínua baseada em evidências científicas, e não em modismos pedagógicos, com formação que os prepare para ensinar bem, e não para militar em sala de aula.",
+              "A escola será cobrada pelo que existe para fazer. A gestão passa a ser baseada em indicadores de resultado e proficiência, e o financiamento seguirá o orçamento por resultados, com repasses vinculados a metas de aprendizagem."
+            ],
+            "reasons": [
+              "Claim citation absent from response citations",
+              "Claim citation absent from response citations",
+              "Citation excerpt does not exist in retrieved chunk"
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "sources_consulted": [
+    "fe452c81-a4f8-403a-92a7-4bb0d7a33eba",
+    "443b3095-5e40-42e9-9094-879a81953c9b"
+  ],
+  "execution_metadata": [
+    {
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "node": "validate_debate",
+      "duration_ms": 0.48,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_count": 0,
+      "retrieval_query": "Educação básica e formação de professores",
+      "at": "2026-09-29T23:52:52.442966+00:00"
+    },
+    {
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "node": "research_topic",
+      "duration_ms": 1359.79,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_count": 12,
+      "retrieval_query": "Educação básica e formação de professores",
+      "at": "2026-09-29T23:52:53.803842+00:00",
+      "retrieval_latency_ms": 1359.79
+    },
+    {
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "node": "build_candidate_profiles",
+      "duration_ms": 23028.88,
+      "tokens": 9274,
+      "model": "gpt-4.1-mini",
+      "retrieval_count": 0,
+      "retrieval_query": "Educação básica e formação de professores",
+      "at": "2026-09-29T23:53:16.833675+00:00"
+    },
+    {
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "node": "generate_question",
+      "duration_ms": 1675.49,
+      "tokens": 5856,
+      "model": "gpt-4.1-mini",
+      "retrieval_count": 0,
+      "retrieval_query": "Educação básica e formação de professores",
+      "at": "2026-09-29T23:53:18.510191+00:00"
+    },
+    {
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "node": "candidate_answer",
+      "duration_ms": 0.0,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_count": 0,
+      "retrieval_query": "Educação básica e formação de professores",
+      "at": "2026-09-29T23:53:18.510191+00:00"
+    },
+    {
+      "node": "retrieve_candidate_context",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 424.81,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:53:18.943094+00:00",
+      "retrieval_latency_ms": 424.81
+    },
+    {
+      "node": "generate_candidate_response",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 6698.77,
+      "tokens": 4645,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:53:25.642871+00:00"
+    },
+    {
+      "node": "source_validator",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 0.07,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:53:25.642871+00:00"
+    },
+    {
+      "node": "regenerate",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 0.0,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:53:25.644402+00:00"
+    },
+    {
+      "node": "generate_candidate_response",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 7976.63,
+      "tokens": 4667,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:53:33.622010+00:00"
+    },
+    {
+      "node": "source_validator",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 0.05,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:53:33.623063+00:00"
+    },
+    {
+      "node": "regenerate",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 0.0,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:53:33.624046+00:00"
+    },
+    {
+      "node": "generate_candidate_response",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 7236.57,
+      "tokens": 4654,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:53:40.861203+00:00"
+    },
+    {
+      "node": "source_validator",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 0.05,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:53:40.863265+00:00"
+    },
+    {
+      "node": "conservative_response",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 0.02,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:53:40.864237+00:00"
+    },
+    {
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "node": "candidate_agent",
+      "duration_ms": 22360.24,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_count": 6,
+      "retrieval_query": "Educação básica e formação de professores",
+      "at": "2026-09-29T23:53:40.871799+00:00"
+    },
+    {
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "node": "save_turn",
+      "duration_ms": 20.08,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_count": 6,
+      "retrieval_query": "Educação básica e formação de professores",
+      "at": "2026-09-29T23:53:40.892875+00:00"
+    },
+    {
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "node": "candidate_rebuttal",
+      "duration_ms": 0.0,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_count": 6,
+      "retrieval_query": "Educação básica e formação de professores",
+      "at": "2026-09-29T23:53:40.893908+00:00"
+    },
+    {
+      "node": "retrieve_candidate_context",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 452.79,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:53:41.350286+00:00",
+      "retrieval_latency_ms": 452.79
+    },
+    {
+      "node": "generate_candidate_response",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 4896.39,
+      "tokens": 4862,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:53:46.247105+00:00"
+    },
+    {
+      "node": "source_validator",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 0.04,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:53:46.248138+00:00"
+    },
+    {
+      "node": "regenerate",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 0.0,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:53:46.249146+00:00"
+    },
+    {
+      "node": "generate_candidate_response",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 4280.88,
+      "tokens": 4883,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:53:50.530560+00:00"
+    },
+    {
+      "node": "source_validator",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 0.08,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:53:50.531560+00:00"
+    },
+    {
+      "node": "regenerate",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 0.0,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:53:50.532592+00:00"
+    },
+    {
+      "node": "generate_candidate_response",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 4613.94,
+      "tokens": 4884,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:53:55.148612+00:00"
+    },
+    {
+      "node": "source_validator",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 0.04,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:53:55.148612+00:00"
+    },
+    {
+      "node": "conservative_response",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 0.02,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:53:55.149614+00:00"
+    },
+    {
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "node": "candidate_agent",
+      "duration_ms": 14265.24,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_count": 6,
+      "retrieval_query": "Educação básica e formação de professores",
+      "at": "2026-09-29T23:53:55.159260+00:00"
+    },
+    {
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "node": "save_turn",
+      "duration_ms": 7.33,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_count": 6,
+      "retrieval_query": "Educação básica e formação de professores",
+      "at": "2026-09-29T23:53:55.167821+00:00"
+    },
+    {
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "node": "candidate_counter_rebuttal",
+      "duration_ms": 0.0,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_count": 6,
+      "retrieval_query": "Educação básica e formação de professores",
+      "at": "2026-09-29T23:53:55.168800+00:00"
+    },
+    {
+      "node": "retrieve_candidate_context",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 569.79,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:53:55.742685+00:00",
+      "retrieval_latency_ms": 569.79
+    },
+    {
+      "node": "generate_candidate_response",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 6938.54,
+      "tokens": 5792,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:54:02.682715+00:00"
+    },
+    {
+      "node": "source_validator",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 0.07,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:54:02.683710+00:00"
+    },
+    {
+      "node": "regenerate",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 0.0,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:54:02.684710+00:00"
+    },
+    {
+      "node": "generate_candidate_response",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 8823.55,
+      "tokens": 5801,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:54:11.511085+00:00"
+    },
+    {
+      "node": "source_validator",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 0.05,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:54:11.511085+00:00"
+    },
+    {
+      "node": "regenerate",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 0.0,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:54:11.513090+00:00"
+    },
+    {
+      "node": "generate_candidate_response",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 5497.97,
+      "tokens": 5560,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:54:17.011894+00:00"
+    },
+    {
+      "node": "source_validator",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 0.03,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:54:17.012891+00:00"
+    },
+    {
+      "node": "conservative_response",
+      "namespace": "candidate_agent",
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "duration_ms": 0.04,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_query": "Educação básica e formação de professores",
+      "retrieval_count": 6,
+      "at": "2026-09-29T23:54:17.013899+00:00"
+    },
+    {
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "node": "candidate_agent",
+      "duration_ms": 21854.04,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_count": 6,
+      "retrieval_query": "Educação básica e formação de professores",
+      "at": "2026-09-29T23:54:17.024594+00:00"
+    },
+    {
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "node": "save_turn",
+      "duration_ms": 7.87,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_count": 6,
+      "retrieval_query": "Educação básica e formação de professores",
+      "at": "2026-09-29T23:54:17.033112+00:00"
+    },
+    {
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "node": "round_complete",
+      "duration_ms": 0.0,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_count": 6,
+      "retrieval_query": "Educação básica e formação de professores",
+      "at": "2026-09-29T23:54:17.034141+00:00"
+    },
+    {
+      "session_id": "3654e4d6-08b7-46e0-9be5-c64787b86f49",
+      "node": "complete",
+      "duration_ms": 0.0,
+      "tokens": 0,
+      "model": "gpt-4.1-mini",
+      "retrieval_count": 6,
+      "retrieval_query": "Educação básica e formação de professores",
+      "at": "2026-09-29T23:54:17.036688+00:00"
+    }
+  ],
+  "token_usage": 60878,
+  "latency_ms": 84579.44,
+  "research": {
+    "topic": "Educação básica e formação de professores",
+    "queries": [
+      "Luiz Inácio Lula da Silva Educação básica e formação de professores programa de governo site:tse.jus.br",
+      "Flávio Bolsonaro Educação básica e formação de professores programa de governo site:tse.jus.br"
+    ],
+    "source_ids": [
+      "fe452c81-a4f8-403a-92a7-4bb0d7a33eba",
+      "443b3095-5e40-42e9-9094-879a81953c9b"
+    ],
+    "evidence": [
+      {
+        "id": "fe452c81-a4f8-403a-92a7-4bb0d7a33eba",
+        "candidate_id": "lula",
+        "title": "Programa de governo 2026 · lula",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pt/@@display-file/file/proposta-pt.pdf",
+        "publisher": "Tribunal Superior Eleitoral",
+        "source_type": "government_program",
+        "publication_date": null,
+        "retrieved_at": "2026-09-29T20:45:33.761568-03:00",
+        "content_hash": "81519d5b9fa567cddb90caacabc5e2bc10129bb68d498fab533ccc22c45c7d9d",
+        "election_year": 2026,
+        "source_id": "fe452c81-a4f8-403a-92a7-4bb0d7a33eba",
+        "chunk_id": "7fa3247d-dcd6-4b0e-8847-6cf15e3f81fa",
+        "content": "Continuaremos exercendo liderança estratégica, apoiando tecnicamente os \nestados, o Distrito Federal e os municípios para fortalecer a cooperação entre os \nentes e contribuir com a formação de gestores e equipes técnicas. Avançaremos \ncom o compartilhamento de dados para eficiente execução das políticas \neducacionais.\nNão existe educação de qualidade sem professores qualificados, valorizados e",
+        "similarity": 0.58342,
+        "tier": 1
+      },
+      {
+        "id": "fe452c81-a4f8-403a-92a7-4bb0d7a33eba",
+        "candidate_id": "lula",
+        "title": "Programa de governo 2026 · lula",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pt/@@display-file/file/proposta-pt.pdf",
+        "publisher": "Tribunal Superior Eleitoral",
+        "source_type": "government_program",
+        "publication_date": null,
+        "retrieved_at": "2026-09-29T20:45:33.761568-03:00",
+        "content_hash": "81519d5b9fa567cddb90caacabc5e2bc10129bb68d498fab533ccc22c45c7d9d",
+        "election_year": 2026,
+        "source_id": "fe452c81-a4f8-403a-92a7-4bb0d7a33eba",
+        "chunk_id": "e983f84f-6745-46df-b827-908ec5746a49",
+        "content": "as formas de violência, assegurando a vida, a liberdade, a igualdade e a proteção \nda população em todo o território nacional.\n4. Garantir o Direito à Educação para Transformar Vidas e o País \nA educação constitui o principal instrumento de transformação social, mobilidade \nsocial intergeracional e de construção de um projeto nacional de desenvolvimento \ndemocrático, soberano, sustentável e inclusivo. É por meio dela que um país \namplia sua capacidade de produzir e compartilhar conhecimento, reduzir \ndesigualdades, fortalecer a democracia e afirmar sua soberania. \nO governo Lula 3 estabeleceu a educação básica como prioridade, atuando em",
+        "similarity": 0.53715,
+        "tier": 1
+      },
+      {
+        "id": "fe452c81-a4f8-403a-92a7-4bb0d7a33eba",
+        "candidate_id": "lula",
+        "title": "Programa de governo 2026 · lula",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pt/@@display-file/file/proposta-pt.pdf",
+        "publisher": "Tribunal Superior Eleitoral",
+        "source_type": "government_program",
+        "publication_date": null,
+        "retrieved_at": "2026-09-29T20:45:33.761568-03:00",
+        "content_hash": "81519d5b9fa567cddb90caacabc5e2bc10129bb68d498fab533ccc22c45c7d9d",
+        "election_year": 2026,
+        "source_id": "fe452c81-a4f8-403a-92a7-4bb0d7a33eba",
+        "chunk_id": "9a9ca173-bc7e-436f-b714-f0bb5cb2732e",
+        "content": "33\ncom condições adequadas de trabalho. O Piso Nacional do Magistério será \nmantido e daremos continuidade às medidas de apoio à formação docente, de \nelevação da atratividade das licenciaturas, por meio do Pé-de-Meia Licenciatura, \ne de fixação de docentes em regiões do país e áreas do conhecimento, por meio \ndo Bolsa Mais Professores.\nA educação e formação profissional é uma prioridade para os jovens e toda a \nsociedade brasileira. Por isto, retomamos a expansão da rede de institutos \nfederais de educação técnica e tecnológica, os IFs. Serão mais 111 IFs, com novos \ncampus em 106 municípios de todos os estados. Também criamos o Partiu IF, que \noferece cursinho preparatório gratuito para estudantes do nono ano do ensino \nfundamental, para facilitar o ingresso nos IFs. As duas iniciativas têm um propósito \ncomum – democratizar o acesso à educação técnica de qualidade. \nNo novo mandato, continuaremos a expansão da nossa rede de institutos federais,",
+        "similarity": 0.5343,
+        "tier": 1
+      },
+      {
+        "id": "fe452c81-a4f8-403a-92a7-4bb0d7a33eba",
+        "candidate_id": "lula",
+        "title": "Programa de governo 2026 · lula",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pt/@@display-file/file/proposta-pt.pdf",
+        "publisher": "Tribunal Superior Eleitoral",
+        "source_type": "government_program",
+        "publication_date": null,
+        "retrieved_at": "2026-09-29T20:45:33.761568-03:00",
+        "content_hash": "81519d5b9fa567cddb90caacabc5e2bc10129bb68d498fab533ccc22c45c7d9d",
+        "election_year": 2026,
+        "source_id": "fe452c81-a4f8-403a-92a7-4bb0d7a33eba",
+        "chunk_id": "1f896fd7-00ef-4f98-8f9b-3fedc25423cf",
+        "content": "de educação infantil em 2.360 municípios. Na segunda edição do Novo PAC, \nampliaremos ainda mais o fomento a estados e municípios para juntos \nalcançarmos a metas do PNE.\nO fomento à expansão da educação em tempo integral terá absoluta prioridade \nno novo mandato. Entre 2023 e 2025, 1,8 milhão de novas matrículas foram \nregistradas. A partir de 2026, com a inclusão, no Fundeb, do financiamento à \neducação em tempo integral, a expectativa é que a ampliação dessa modalidade \nse acelere, garantindo melhores condições de aprendizado para os estudantes.",
+        "similarity": 0.50656,
+        "tier": 1
+      },
+      {
+        "id": "fe452c81-a4f8-403a-92a7-4bb0d7a33eba",
+        "candidate_id": "lula",
+        "title": "Programa de governo 2026 · lula",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pt/@@display-file/file/proposta-pt.pdf",
+        "publisher": "Tribunal Superior Eleitoral",
+        "source_type": "government_program",
+        "publication_date": null,
+        "retrieved_at": "2026-09-29T20:45:33.761568-03:00",
+        "content_hash": "81519d5b9fa567cddb90caacabc5e2bc10129bb68d498fab533ccc22c45c7d9d",
+        "election_year": 2026,
+        "source_id": "fe452c81-a4f8-403a-92a7-4bb0d7a33eba",
+        "chunk_id": "5dad3732-fefe-4a3c-b6fb-618afffecc14",
+        "content": "31\nregime de colaboração federativa para acelerar a superação dos gargalos e \ninsuficiências ainda existentes neste nível de escolaridade. Mesmo priorizando a \neducação básica, voltamos a investir na expansão do ensino técnico e tecnológico, \ne retomamos o fomento ao ensino superior, em especial à rede federal. \nNo novo mandato, a conciliação destes objetivos continuará orientando a ação \nfederal, que será também pautada pelo compromisso em cumprir as metas do \nPlano Nacional de Educação 2026-2036.\nO Compromisso Nacional Criança Alfabetizada instituiu uma estratégia nacional \nde cooperação federativa, cujos resultados – 66% das crianças alfabetizadas na \nidade certa em 2025 - superaram a meta prevista de 64%. Seguiremos com as \nações e políticas já pactuadas com os estados e municípios brasileiros para \nchegarmos à meta de 80% das nossas crianças alfabetizadas na idade certa. \nAo mesmo tempo, continuaremos fortalecendo as políticas de enfrentamento do",
+        "similarity": 0.48606,
+        "tier": 1
+      },
+      {
+        "id": "fe452c81-a4f8-403a-92a7-4bb0d7a33eba",
+        "candidate_id": "lula",
+        "title": "Programa de governo 2026 · lula",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pt/@@display-file/file/proposta-pt.pdf",
+        "publisher": "Tribunal Superior Eleitoral",
+        "source_type": "government_program",
+        "publication_date": null,
+        "retrieved_at": "2026-09-29T20:45:33.761568-03:00",
+        "content_hash": "81519d5b9fa567cddb90caacabc5e2bc10129bb68d498fab533ccc22c45c7d9d",
+        "election_year": 2026,
+        "source_id": "fe452c81-a4f8-403a-92a7-4bb0d7a33eba",
+        "chunk_id": "2620d160-b6c4-48a7-9ae2-bd21f7f56043",
+        "content": "garantindo acesso a essa dimensão cada vez mais central para a qualidade da \neducação.\nAprovamos a nova lei do ensino médio, buscando reequilibrar a formação geral \nbásica e a formação profissional, e criamos o Pé-de-Meia, para enfrentar o desafio \nda evasão no ensino médio. O programa já beneficiou 7,3 milhões de jovens e \nmostrou ter impacto sobre os indicadores de permanência e de participação no \nEnem. Vamos dar continuidade e fortalecer o Pé-de-Meia. Nenhum jovem em \nsituação de pobreza ou vulnerabilidade social no Brasil deve deixar a escola por \nfalta de renda.\nLançamos o MEC Livros e o MEC Idiomas, iniciativas que, ao permitir o acesso via \ncelular, democratizam o acesso a leitura e aprendizagem de inglês e espanhol. No \npróximo mandato seguiremos ampliando o acervo do MEC Livros e incluindo \nnovas línguas no MEC Idiomas. \nContinuaremos exercendo liderança estratégica, apoiando tecnicamente os \nestados, o Distrito Federal e os municípios para fortalecer a cooperação entre os",
+        "similarity": 0.48396,
+        "tier": 1
+      },
+      {
+        "id": "443b3095-5e40-42e9-9094-879a81953c9b",
+        "candidate_id": "flavio",
+        "title": "Programa de governo 2026 · flavio",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pl/@@display-file/file/proposta-pl.pdf",
+        "publisher": "Tribunal Superior Eleitoral",
+        "source_type": "government_program",
+        "publication_date": null,
+        "retrieved_at": "2026-09-29T20:45:30.642554-03:00",
+        "content_hash": "5e232e2a02aaa9ecb8e680cefc11d6147888d7d672f3dbe05aff5459807b3585",
+        "election_year": 2026,
+        "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+        "chunk_id": "db5a126f-ccea-4f8c-bd41-916671c5634a",
+        "content": "EDUCAÇÃO \nAlfabetização (método fônico) ......................................... 35 \nAltas habilidades .................................................................... 35 \nCapacitação contínua de professores ........................... 35 \nConectividade nas escolas ................................................. 24 \nCreche – ampliação de vagas ............................................ 21 \nEconomia digital no currículo escolar .......................... 35 \nEnsino superior e inovação ............................................... 36 \nEnsino técnico ......................................................................... 36 \nEscola em tempo integral ................................................... 35 \nEscola nas férias ..................................................................... 35 \nEscola sem doutrinação ...................................................... 35 \nEscolas cívico-militares ...................................................... 35",
+        "similarity": 0.60164,
+        "tier": 1
+      },
+      {
+        "id": "443b3095-5e40-42e9-9094-879a81953c9b",
+        "candidate_id": "flavio",
+        "title": "Programa de governo 2026 · flavio",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pl/@@display-file/file/proposta-pl.pdf",
+        "publisher": "Tribunal Superior Eleitoral",
+        "source_type": "government_program",
+        "publication_date": null,
+        "retrieved_at": "2026-09-29T20:45:30.642554-03:00",
+        "content_hash": "5e232e2a02aaa9ecb8e680cefc11d6147888d7d672f3dbe05aff5459807b3585",
+        "election_year": 2026,
+        "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+        "chunk_id": "b5855337-a436-41b2-b2ee-7c04b16ea871",
+        "content": "A escola será cobrada pelo que existe para fazer. A gestão passa a ser baseada \nem indicadores de resultado e proficiência, e o financiamento seguirá o \norçamento por resultados, com repasses vinculados a metas de \naprendizagem, sem abandonar regiões que enfrentam maiores dificuldades. \nOs professores terão qualificação contínua baseada em evidências \ncientíficas, e não em modismos pedagógicos, com formação que os prepare \npara ensinar bem, e não para militar em sala de aula. \nA educação será orientada pelo conhecimento e livre de doutrinação \npolítico-partidária, respeitando a liberdade de consciência e o papel das \nfamílias. Escola é lugar de aprender a pensar, não de aprender o que pensar, e \nquem decide sobre os valores que o filho recebe são os pais. Vamos ampliar as \nEscolas Cívico-Militares, que uniram disciplina e bom desempenho onde \nforam implantadas, e garantir atendimento ao aluno com altas habilidades,",
+        "similarity": 0.55268,
+        "tier": 1
+      },
+      {
+        "id": "443b3095-5e40-42e9-9094-879a81953c9b",
+        "candidate_id": "flavio",
+        "title": "Programa de governo 2026 · flavio",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pl/@@display-file/file/proposta-pl.pdf",
+        "publisher": "Tribunal Superior Eleitoral",
+        "source_type": "government_program",
+        "publication_date": null,
+        "retrieved_at": "2026-09-29T20:45:30.642554-03:00",
+        "content_hash": "5e232e2a02aaa9ecb8e680cefc11d6147888d7d672f3dbe05aff5459807b3585",
+        "election_year": 2026,
+        "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+        "chunk_id": "46dd2646-ffd5-4360-8cc0-7c2eff5ebb29",
+        "content": "Escola sem doutrinação ...................................................... 35 \nEscolas cívico-militares ...................................................... 35 \nEsporte na escola ................................................................... 40 \nFinanciamento estudantil .................................................. 37 \nGestão escolar por resultados .......................................... 35 \nPolítica Nacional de Formação de Talentos ............... 36 \nReforço escolar – Programa Acolher ............................. 35 \nVoucher educacional em falta de vagas ....................... 36",
+        "similarity": 0.53713,
+        "tier": 1
+      },
+      {
+        "id": "443b3095-5e40-42e9-9094-879a81953c9b",
+        "candidate_id": "flavio",
+        "title": "Programa de governo 2026 · flavio",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pl/@@display-file/file/proposta-pl.pdf",
+        "publisher": "Tribunal Superior Eleitoral",
+        "source_type": "government_program",
+        "publication_date": null,
+        "retrieved_at": "2026-09-29T20:45:30.642554-03:00",
+        "content_hash": "5e232e2a02aaa9ecb8e680cefc11d6147888d7d672f3dbe05aff5459807b3585",
+        "election_year": 2026,
+        "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+        "chunk_id": "e7f4402b-3037-49c4-8031-2d5e10922e90",
+        "content": "necessidades reais do mercado, como se preparar o jovem para trabalhar fosse \nalgo menor. Vamos ampliar a oferta de educação técnica para os alunos do \nensino médio, para que o jovem saia da escola já com uma profissão na mão, \ne não apenas com um diploma. E vamos fazer essa formação técnica em \nparceria com o setor produtivo, com foco na inovação, de modo que quem \nforma o profissional converse diretamente com quem vai contratá-lo. Nessa \nparceria, o setor produtivo poderá custear bolsas de formação técnica , \nfinanciando a qualificação dos profissionais de que precisa. \nA escola também precisa preparar para a economia que vem chegando. \nVamos tratar a formação como vetor da transformação tecnológica , \nadequando o que se ensina às profissões do presente e do futuro, e criar a \nPolítica Nacional de Formação de Talentos, para identificar e desenvolver as \nhabilidades que o mercado de trabalho vai exigir. O Brasil não pode formar",
+        "similarity": 0.52604,
+        "tier": 1
+      },
+      {
+        "id": "443b3095-5e40-42e9-9094-879a81953c9b",
+        "candidate_id": "flavio",
+        "title": "Programa de governo 2026 · flavio",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pl/@@display-file/file/proposta-pl.pdf",
+        "publisher": "Tribunal Superior Eleitoral",
+        "source_type": "government_program",
+        "publication_date": null,
+        "retrieved_at": "2026-09-29T20:45:30.642554-03:00",
+        "content_hash": "5e232e2a02aaa9ecb8e680cefc11d6147888d7d672f3dbe05aff5459807b3585",
+        "election_year": 2026,
+        "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+        "chunk_id": "e00ad885-7823-4617-804d-6649d9987499",
+        "content": "35 \n \neducação, o Brasil aparece na 65a posição entre 81 países em matemática . \nFaltou método, faltou cobrança e sobrou ideologia. \nO começo de tudo é alfabetizar direito. Vamos priorizar o método fônico, que \né o de melhor resultado comprovado pela ciência, ensinando a criança a ligar \ncada som à sua letra, em vez das abordagens que fracassaram por décadas. \nE, para o aluno com dificuldade ao longo do ensino fundamental, vamos criar \no Programa Acolher: um aluno com bom desempenho é remunerado para \ndar reforço aos colegas que precisam, de forma remota ou presencial. Todos \nganham, quem precisa recebe ajuda de alguém próximo, que fala a sua língua, \ne quem ajuda ganha uma renda e aprende ainda mais ao ensinar. O objetivo \né claro: ninguém avança de série sem ter aprendido. \nA escola será cobrada pelo que existe para fazer. A gestão passa a ser baseada \nem indicadores de resultado e proficiência, e o financiamento seguirá o",
+        "similarity": 0.4922,
+        "tier": 1
+      },
+      {
+        "id": "443b3095-5e40-42e9-9094-879a81953c9b",
+        "candidate_id": "flavio",
+        "title": "Programa de governo 2026 · flavio",
+        "url": "https://www.tse.jus.br/eleicoes/eleicoes-2026-content/arquivos/proposta-pl/@@display-file/file/proposta-pl.pdf",
+        "publisher": "Tribunal Superior Eleitoral",
+        "source_type": "government_program",
+        "publication_date": null,
+        "retrieved_at": "2026-09-29T20:45:30.642554-03:00",
+        "content_hash": "5e232e2a02aaa9ecb8e680cefc11d6147888d7d672f3dbe05aff5459807b3585",
+        "election_year": 2026,
+        "source_id": "443b3095-5e40-42e9-9094-879a81953c9b",
+        "chunk_id": "f2912bb2-0323-46ab-b582-321d68db5a2b",
+        "content": "36 \n \nnas Férias, oferecendo esporte, arte, música e literatura em vez de deixar a \ncriança ociosa. E onde faltar vaga na rede pública, a família receberá um \nvoucher educacional para matricular o filho em outra escola, porque a \nprioridade é a criança aprender, não a defesa de um sistema que falhou com \nela. \nPreparar para o trabalho que existe \nestudar tem que levar a emprego, não a um diploma sem uso \nHá jovem formado sem encontrar emprego e empresa com vaga aberta sem \nencontrar quem saiba fazer. Essa distância entre o que a escola ensina e o que \no mercado precisa custa caro duas vezes: custa ao jovem os anos de estudo \nque não viram trabalho, e custa ao país o crescimento que ele deixa de ter por \nfalta de gente qualificada. \nHá anos, setores organizados resistem a um ensino técnico voltado às \nnecessidades reais do mercado, como se preparar o jovem para trabalhar fosse \nalgo menor. Vamos ampliar a oferta de educação técnica para os alunos do",
+        "similarity": 0.48799,
+        "tier": 1
+      }
+    ],
+    "discoveries": []
+  }
+}

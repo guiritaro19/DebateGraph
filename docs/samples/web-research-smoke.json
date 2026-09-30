@@ -1,0 +1,31 @@
+{
+  "phase": "REBUTTAL",
+  "candidate_id": "lula",
+  "query": "regulação de apostas online proteção consumidores educação financeira",
+  "provider": "openai",
+  "discoveries": [
+    {
+      "title": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/presidente-lula-assina-medida-provisoria-que-proibe-as-bets-no-brasil/?utm_source=openai",
+      "url": "https://www.gov.br/saude/pt-br/assuntos/noticias-ms/2026/setembro/presidente-lula-assina-medida-provisoria-que-proibe-as-bets-no-brasil/?utm_source=openai",
+      "status": "ingested",
+      "source_id": "a3d7dfc2-66a0-4d41-8c5a-a8e3f24b71d2",
+      "unchanged": true,
+      "chunks": 0,
+      "candidate_id": "lula",
+      "publication_date": "2026-09-25"
+    },
+    {
+      "title": "https://www.gov.br/esporte/pt-br/noticias-e-conteudos/esporte/presidente-lula-sanciona-lei-que-regulamenta-apostas-esportivas?utm_source=openai",
+      "url": "https://www.gov.br/esporte/pt-br/noticias-e-conteudos/esporte/presidente-lula-sanciona-lei-que-regulamenta-apostas-esportivas?utm_source=openai",
+      "status": "unavailable_not_used",
+      "error": "HTTPStatusError"
+    }
+  ],
+  "tokens": 9274,
+  "status": "complete",
+  "retrieved_web_chunks": [
+    "f7339655-150d-4875-b060-c995ad42778d",
+    "d15b595e-f6ec-498f-b502-05651f76a439",
+    "512c1fe0-0c30-485e-ba5b-3c6dd857eae8"
+  ]
+}

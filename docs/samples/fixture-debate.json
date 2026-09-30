@@ -1,0 +1,472 @@
+{
+  "id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+  "topic": "Inteligência artificial na educação",
+  "participants": [
+    "atlas",
+    "nova"
+  ],
+  "configuration": {
+    "candidate_a": "atlas",
+    "candidate_b": "nova",
+    "topic": "Inteligência artificial na educação",
+    "asks_first": "a",
+    "responds_first": "b",
+    "depth": 3,
+    "max_turns": 1,
+    "mode": "fixture",
+    "pause_after_round": false,
+    "style_mode": "expressive"
+  },
+  "created_at": "2026-09-29T20:51:44.921490-03:00",
+  "status": "complete",
+  "messages": [
+    {
+      "id": "08f1e8c2-f9a1-4650-9681-22cebd6a93e2",
+      "candidate_id": "atlas",
+      "phase": "QUESTION",
+      "content": "Como tratar Inteligência artificial na educação e quais limites precisam ser considerados?",
+      "timestamp": "2026-09-29T23:51:44.974190+00:00",
+      "label": "AI-generated simulation based on public sources.",
+      "citations": [
+        {
+          "source_id": "86d3891e-5c79-4c6c-bab9-aec0340da423"
+        },
+        {
+          "source_id": "243a0e53-04eb-4bdc-b393-0c6e707a89aa"
+        }
+      ],
+      "claims": [],
+      "confidence": "LOW",
+      "validation": {}
+    },
+    {
+      "id": "e308933a-8ad9-414b-96c5-d9b8d8d3a4d1",
+      "candidate_id": "nova",
+      "phase": "ANSWER",
+      "content": "Neste exercício fictício, o documento de Nova · agente fictício apresenta: O laboratório fictício Nova propõe ambientes de inteligência artificial reproduzíveis para educação. Os projetos devem publicar avaliações, rastreabilidade das fontes e alternativas locais. A segurança em inteligência artificial deve incluir revisão humana de resultados e testes de privacidade.",
+      "timestamp": "2026-09-29T23:51:45.000298+00:00",
+      "label": "AI-generated simulation based on public sources.",
+      "citations": [
+        {
+          "source_id": "243a0e53-04eb-4bdc-b393-0c6e707a89aa",
+          "chunk_id": "8c26ab4f-81c3-455e-a3cb-f45aed7fe4cd",
+          "quote": "O laboratório fictício Nova propõe ambientes de inteligência artificial reproduzíveis para educação. Os projetos devem publicar avaliações, rastreabilidade das fontes e alternativas locais. A segurança em inteligência artificial deve incluir revisão humana de resultados e testes de privacidade."
+        }
+      ],
+      "claims": [
+        {
+          "text": "O laboratório fictício Nova propõe ambientes de inteligência artificial reproduzíveis para educação. Os projetos devem publicar avaliações, rastreabilidade das fontes e alternativas locais. A segurança em inteligência artificial deve incluir revisão humana de resultados e testes de privacidade.",
+          "citations": [
+            {
+              "source_id": "243a0e53-04eb-4bdc-b393-0c6e707a89aa",
+              "chunk_id": "8c26ab4f-81c3-455e-a3cb-f45aed7fe4cd",
+              "quote": "O laboratório fictício Nova propõe ambientes de inteligência artificial reproduzíveis para educação. Os projetos devem publicar avaliações, rastreabilidade das fontes e alternativas locais. A segurança em inteligência artificial deve incluir revisão humana de resultados e testes de privacidade."
+            }
+          ]
+        }
+      ],
+      "confidence": "HIGH",
+      "validation": {
+        "valid": true,
+        "unsupported_claims": [],
+        "reasons": [],
+        "attempts": [
+          {
+            "valid": true,
+            "unsupported_claims": [],
+            "reasons": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "2cdda425-ec8e-4767-a331-31e3feb1c49c",
+      "candidate_id": "atlas",
+      "phase": "REBUTTAL",
+      "content": "Neste exercício fictício, o documento de Atlas · agente fictício apresenta: O laboratório fictício Atlas propõe um catálogo aberto de experimentos de inteligência artificial. Cada experimento deve registrar documentação, testes de segurança e limites de uso. A educação em inteligência artificial deve incluir leitura crítica de fontes e auditoria de sistemas.",
+      "timestamp": "2026-09-29T23:51:45.987893+00:00",
+      "label": "AI-generated simulation based on public sources.",
+      "citations": [
+        {
+          "source_id": "86d3891e-5c79-4c6c-bab9-aec0340da423",
+          "chunk_id": "871726de-0777-4123-856b-85530bdf27e4",
+          "quote": "O laboratório fictício Atlas propõe um catálogo aberto de experimentos de inteligência artificial. Cada experimento deve registrar documentação, testes de segurança e limites de uso. A educação em inteligência artificial deve incluir leitura crítica de fontes e auditoria de sistemas."
+        }
+      ],
+      "claims": [
+        {
+          "text": "O laboratório fictício Atlas propõe um catálogo aberto de experimentos de inteligência artificial. Cada experimento deve registrar documentação, testes de segurança e limites de uso. A educação em inteligência artificial deve incluir leitura crítica de fontes e auditoria de sistemas.",
+          "citations": [
+            {
+              "source_id": "86d3891e-5c79-4c6c-bab9-aec0340da423",
+              "chunk_id": "871726de-0777-4123-856b-85530bdf27e4",
+              "quote": "O laboratório fictício Atlas propõe um catálogo aberto de experimentos de inteligência artificial. Cada experimento deve registrar documentação, testes de segurança e limites de uso. A educação em inteligência artificial deve incluir leitura crítica de fontes e auditoria de sistemas."
+            }
+          ]
+        }
+      ],
+      "confidence": "HIGH",
+      "validation": {
+        "valid": true,
+        "unsupported_claims": [],
+        "reasons": [],
+        "attempts": [
+          {
+            "valid": true,
+            "unsupported_claims": [],
+            "reasons": []
+          }
+        ]
+      }
+    },
+    {
+      "id": "66b7893d-bf47-40a8-872f-82ca8f1543a6",
+      "candidate_id": "nova",
+      "phase": "COUNTER_REBUTTAL",
+      "content": "Neste exercício fictício, o documento de Nova · agente fictício apresenta: O laboratório fictício Nova propõe ambientes de inteligência artificial reproduzíveis para educação. Os projetos devem publicar avaliações, rastreabilidade das fontes e alternativas locais. A segurança em inteligência artificial deve incluir revisão humana de resultados e testes de privacidade.",
+      "timestamp": "2026-09-29T23:51:46.792957+00:00",
+      "label": "AI-generated simulation based on public sources.",
+      "citations": [
+        {
+          "source_id": "243a0e53-04eb-4bdc-b393-0c6e707a89aa",
+          "chunk_id": "8c26ab4f-81c3-455e-a3cb-f45aed7fe4cd",
+          "quote": "O laboratório fictício Nova propõe ambientes de inteligência artificial reproduzíveis para educação. Os projetos devem publicar avaliações, rastreabilidade das fontes e alternativas locais. A segurança em inteligência artificial deve incluir revisão humana de resultados e testes de privacidade."
+        }
+      ],
+      "claims": [
+        {
+          "text": "O laboratório fictício Nova propõe ambientes de inteligência artificial reproduzíveis para educação. Os projetos devem publicar avaliações, rastreabilidade das fontes e alternativas locais. A segurança em inteligência artificial deve incluir revisão humana de resultados e testes de privacidade.",
+          "citations": [
+            {
+              "source_id": "243a0e53-04eb-4bdc-b393-0c6e707a89aa",
+              "chunk_id": "8c26ab4f-81c3-455e-a3cb-f45aed7fe4cd",
+              "quote": "O laboratório fictício Nova propõe ambientes de inteligência artificial reproduzíveis para educação. Os projetos devem publicar avaliações, rastreabilidade das fontes e alternativas locais. A segurança em inteligência artificial deve incluir revisão humana de resultados e testes de privacidade."
+            }
+          ]
+        }
+      ],
+      "confidence": "HIGH",
+      "validation": {
+        "valid": true,
+        "unsupported_claims": [],
+        "reasons": [],
+        "attempts": [
+          {
+            "valid": true,
+            "unsupported_claims": [],
+            "reasons": []
+          }
+        ]
+      }
+    }
+  ],
+  "sources_consulted": [
+    "86d3891e-5c79-4c6c-bab9-aec0340da423",
+    "243a0e53-04eb-4bdc-b393-0c6e707a89aa"
+  ],
+  "execution_metadata": [
+    {
+      "session_id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+      "node": "validate_debate",
+      "duration_ms": 0.41,
+      "tokens": 0,
+      "model": "fixture-extractive-v1",
+      "retrieval_count": 0,
+      "retrieval_query": "Inteligência artificial na educação",
+      "at": "2026-09-29T23:51:44.946579+00:00"
+    },
+    {
+      "session_id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+      "node": "research_topic",
+      "duration_ms": 23.94,
+      "tokens": 0,
+      "model": "fixture-extractive-v1",
+      "retrieval_count": 2,
+      "retrieval_query": "Inteligência artificial na educação",
+      "at": "2026-09-29T23:51:44.971634+00:00",
+      "retrieval_latency_ms": 23.94
+    },
+    {
+      "session_id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+      "node": "build_candidate_profiles",
+      "duration_ms": 0.55,
+      "tokens": 0,
+      "model": "fixture-extractive-v1",
+      "retrieval_count": 0,
+      "retrieval_query": "Inteligência artificial na educação",
+      "at": "2026-09-29T23:51:44.973178+00:00"
+    },
+    {
+      "session_id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+      "node": "generate_question",
+      "duration_ms": 0.05,
+      "tokens": 0,
+      "model": "fixture-extractive-v1",
+      "retrieval_count": 0,
+      "retrieval_query": "Inteligência artificial na educação",
+      "at": "2026-09-29T23:51:44.974190+00:00"
+    },
+    {
+      "session_id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+      "node": "candidate_answer",
+      "duration_ms": 0.0,
+      "tokens": 0,
+      "model": "fixture-extractive-v1",
+      "retrieval_count": 0,
+      "retrieval_query": "Inteligência artificial na educação",
+      "at": "2026-09-29T23:51:44.974190+00:00"
+    },
+    {
+      "node": "retrieve_candidate_context",
+      "namespace": "candidate_agent",
+      "session_id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+      "duration_ms": 5.08,
+      "tokens": 0,
+      "model": "fixture-extractive-v1",
+      "retrieval_query": "Inteligência artificial na educação",
+      "retrieval_count": 1,
+      "at": "2026-09-29T23:51:44.985702+00:00",
+      "retrieval_latency_ms": 5.08
+    },
+    {
+      "node": "generate_candidate_response",
+      "namespace": "candidate_agent",
+      "session_id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+      "duration_ms": 0.44,
+      "tokens": 0,
+      "model": "fixture-extractive-v1",
+      "retrieval_query": "Inteligência artificial na educação",
+      "retrieval_count": 1,
+      "at": "2026-09-29T23:51:44.986765+00:00"
+    },
+    {
+      "node": "source_validator",
+      "namespace": "candidate_agent",
+      "session_id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+      "duration_ms": 0.07,
+      "tokens": 0,
+      "model": "fixture-extractive-v1",
+      "retrieval_query": "Inteligência artificial na educação",
+      "retrieval_count": 1,
+      "at": "2026-09-29T23:51:44.987777+00:00"
+    },
+    {
+      "session_id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+      "node": "candidate_agent",
+      "duration_ms": 23.04,
+      "tokens": 0,
+      "model": "fixture-extractive-v1",
+      "retrieval_count": 1,
+      "retrieval_query": "Inteligência artificial na educação",
+      "at": "2026-09-29T23:51:44.999298+00:00"
+    },
+    {
+      "session_id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+      "node": "save_turn",
+      "duration_ms": 961.68,
+      "tokens": 0,
+      "model": "fixture-extractive-v1",
+      "retrieval_count": 1,
+      "retrieval_query": "Inteligência artificial na educação",
+      "at": "2026-09-29T23:51:45.962432+00:00"
+    },
+    {
+      "session_id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+      "node": "candidate_rebuttal",
+      "duration_ms": 0.0,
+      "tokens": 0,
+      "model": "fixture-extractive-v1",
+      "retrieval_count": 1,
+      "retrieval_query": "Inteligência artificial na educação",
+      "at": "2026-09-29T23:51:45.963440+00:00"
+    },
+    {
+      "node": "retrieve_candidate_context",
+      "namespace": "candidate_agent",
+      "session_id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+      "duration_ms": 4.08,
+      "tokens": 0,
+      "model": "fixture-extractive-v1",
+      "retrieval_query": "Inteligência artificial na educação",
+      "retrieval_count": 1,
+      "at": "2026-09-29T23:51:45.970954+00:00",
+      "retrieval_latency_ms": 4.08
+    },
+    {
+      "node": "generate_candidate_response",
+      "namespace": "candidate_agent",
+      "session_id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+      "duration_ms": 0.48,
+      "tokens": 0,
+      "model": "fixture-extractive-v1",
+      "retrieval_query": "Inteligência artificial na educação",
+      "retrieval_count": 1,
+      "at": "2026-09-29T23:51:45.972953+00:00"
+    },
+    {
+      "node": "source_validator",
+      "namespace": "candidate_agent",
+      "session_id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+      "duration_ms": 0.06,
+      "tokens": 0,
+      "model": "fixture-extractive-v1",
+      "retrieval_query": "Inteligência artificial na educação",
+      "retrieval_count": 1,
+      "at": "2026-09-29T23:51:45.973954+00:00"
+    },
+    {
+      "session_id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+      "node": "candidate_agent",
+      "duration_ms": 23.56,
+      "tokens": 0,
+      "model": "fixture-extractive-v1",
+      "retrieval_count": 1,
+      "retrieval_query": "Inteligência artificial na educação",
+      "at": "2026-09-29T23:51:45.986859+00:00"
+    },
+    {
+      "session_id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+      "node": "save_turn",
+      "duration_ms": 780.05,
+      "tokens": 0,
+      "model": "fixture-extractive-v1",
+      "retrieval_count": 1,
+      "retrieval_query": "Inteligência artificial na educação",
+      "at": "2026-09-29T23:51:46.768155+00:00"
+    },
+    {
+      "session_id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+      "node": "candidate_counter_rebuttal",
+      "duration_ms": 0.0,
+      "tokens": 0,
+      "model": "fixture-extractive-v1",
+      "retrieval_count": 1,
+      "retrieval_query": "Inteligência artificial na educação",
+      "at": "2026-09-29T23:51:46.769153+00:00"
+    },
+    {
+      "node": "retrieve_candidate_context",
+      "namespace": "candidate_agent",
+      "session_id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+      "duration_ms": 4.69,
+      "tokens": 0,
+      "model": "fixture-extractive-v1",
+      "retrieval_query": "Inteligência artificial na educação",
+      "retrieval_count": 1,
+      "at": "2026-09-29T23:51:46.778678+00:00",
+      "retrieval_latency_ms": 4.69
+    },
+    {
+      "node": "generate_candidate_response",
+      "namespace": "candidate_agent",
+      "session_id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+      "duration_ms": 0.44,
+      "tokens": 0,
+      "model": "fixture-extractive-v1",
+      "retrieval_query": "Inteligência artificial na educação",
+      "retrieval_count": 1,
+      "at": "2026-09-29T23:51:46.780674+00:00"
+    },
+    {
+      "node": "source_validator",
+      "namespace": "candidate_agent",
+      "session_id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+      "duration_ms": 0.06,
+      "tokens": 0,
+      "model": "fixture-extractive-v1",
+      "retrieval_query": "Inteligência artificial na educação",
+      "retrieval_count": 1,
+      "at": "2026-09-29T23:51:46.781674+00:00"
+    },
+    {
+      "session_id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+      "node": "candidate_agent",
+      "duration_ms": 21.46,
+      "tokens": 0,
+      "model": "fixture-extractive-v1",
+      "retrieval_count": 1,
+      "retrieval_query": "Inteligência artificial na educação",
+      "at": "2026-09-29T23:51:46.791953+00:00"
+    },
+    {
+      "session_id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+      "node": "save_turn",
+      "duration_ms": 840.62,
+      "tokens": 0,
+      "model": "fixture-extractive-v1",
+      "retrieval_count": 1,
+      "retrieval_query": "Inteligência artificial na educação",
+      "at": "2026-09-29T23:51:47.633315+00:00"
+    },
+    {
+      "session_id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+      "node": "round_complete",
+      "duration_ms": 0.0,
+      "tokens": 0,
+      "model": "fixture-extractive-v1",
+      "retrieval_count": 1,
+      "retrieval_query": "Inteligência artificial na educação",
+      "at": "2026-09-29T23:51:47.634313+00:00"
+    },
+    {
+      "session_id": "5642a51f-9ff5-413e-8bc3-51acf53636a0",
+      "node": "complete",
+      "duration_ms": 0.0,
+      "tokens": 0,
+      "model": "fixture-extractive-v1",
+      "retrieval_count": 1,
+      "retrieval_query": "Inteligência artificial na educação",
+      "at": "2026-09-29T23:51:47.637826+00:00"
+    }
+  ],
+  "token_usage": 0,
+  "latency_ms": 2675.36,
+  "research": {
+    "topic": "Inteligência artificial na educação",
+    "queries": [
+      "Atlas · agente fictício Inteligência artificial na educação programa de governo site:tse.jus.br",
+      "Nova · agente fictício Inteligência artificial na educação programa de governo site:tse.jus.br"
+    ],
+    "source_ids": [
+      "86d3891e-5c79-4c6c-bab9-aec0340da423",
+      "243a0e53-04eb-4bdc-b393-0c6e707a89aa"
+    ],
+    "evidence": [
+      {
+        "id": "86d3891e-5c79-4c6c-bab9-aec0340da423",
+        "candidate_id": "atlas",
+        "title": "Fixture sintética atlas",
+        "url": "https://example.org/debategraph/fixtures/atlas",
+        "publisher": "DebateGraph synthetic tests",
+        "source_type": "synthetic_fixture",
+        "publication_date": null,
+        "retrieved_at": "2026-09-29T20:44:31.811551-03:00",
+        "content_hash": "fe2f3761ce6f87e80413cf49d1bc69ef1b02b59019c94bfbac9566f2c44057e0",
+        "election_year": null,
+        "source_id": "86d3891e-5c79-4c6c-bab9-aec0340da423",
+        "chunk_id": "871726de-0777-4123-856b-85530bdf27e4",
+        "content": "O laboratório fictício Atlas propõe um catálogo aberto de experimentos de inteligência artificial. Cada experimento deve registrar documentação, testes de segurança e limites de uso. A educação em inteligência artificial deve incluir leitura crítica de fontes e auditoria de sistemas.",
+        "similarity": 0.49507,
+        "tier": 0
+      },
+      {
+        "id": "243a0e53-04eb-4bdc-b393-0c6e707a89aa",
+        "candidate_id": "nova",
+        "title": "Fixture sintética nova",
+        "url": "https://example.org/debategraph/fixtures/nova",
+        "publisher": "DebateGraph synthetic tests",
+        "source_type": "synthetic_fixture",
+        "publication_date": null,
+        "retrieved_at": "2026-09-29T20:44:31.820753-03:00",
+        "content_hash": "50127730554ca0f54fca79acba45ff7f28636bfe6cdd0f18e021a6e8ef851dff",
+        "election_year": null,
+        "source_id": "243a0e53-04eb-4bdc-b393-0c6e707a89aa",
+        "chunk_id": "8c26ab4f-81c3-455e-a3cb-f45aed7fe4cd",
+        "content": "O laboratório fictício Nova propõe ambientes de inteligência artificial reproduzíveis para educação. Os projetos devem publicar avaliações, rastreabilidade das fontes e alternativas locais. A segurança em inteligência artificial deve incluir revisão humana de resultados e testes de privacidade.",
+        "similarity": 0.50252,
+        "tier": 0
+      }
+    ],
+    "discoveries": []
+  }
+}

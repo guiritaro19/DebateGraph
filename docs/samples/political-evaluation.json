@@ -1,0 +1,16 @@
+{
+  "rejected_draft_attempts": 9,
+  "unsupported_draft_claims": 20,
+  "citation_coverage": null,
+  "unsupported_claim_rate": null,
+  "citation_errors": 0,
+  "candidate_source_isolation": true,
+  "mean_retrieval_similarity": 0.5274274999999999,
+  "retrieval_relevance_note": "Cosine similarity is a proxy; manual relevance labels remain necessary.",
+  "retrieved_chunks": 12,
+  "response_latency_ms": 84579.44,
+  "token_usage": 60878,
+  "abstentions": 3,
+  "candidate_messages": 3,
+  "scope": "Engineering diagnostics only; no candidate comparison."
+}

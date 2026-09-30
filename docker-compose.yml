@@ -1,0 +1,38 @@
+services:
+  postgres:
+    image: pgvector/pgvector:pg17
+    environment:
+      POSTGRES_USER: debategraph
+      POSTGRES_PASSWORD: debategraph
+      POSTGRES_DB: debategraph
+    ports: ["127.0.0.1:5433:5432"]
+    volumes: ["pgdata:/var/lib/postgresql/data"]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U debategraph -d debategraph"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+  backend:
+    profiles: ["full"]
+    build:
+      context: .
+      dockerfile: docker/backend.Dockerfile
+    env_file: .env
+    environment:
+      DATABASE_URL: postgresql+psycopg://debategraph:debategraph@postgres:5432/debategraph
+      CHECKPOINT_BACKEND: postgres
+      CHECKPOINT_DATABASE_URL: postgresql://debategraph:debategraph@postgres:5432/debategraph
+    ports: ["127.0.0.1:8000:8000"]
+    depends_on:
+      postgres: {condition: service_healthy}
+    volumes: ["sessiondata:/app/runtime"]
+  frontend:
+    profiles: ["full"]
+    build:
+      context: .
+      dockerfile: docker/frontend.Dockerfile
+    ports: ["127.0.0.1:3000:3000"]
+    depends_on: [backend]
+volumes:
+  pgdata:
+  sessiondata:

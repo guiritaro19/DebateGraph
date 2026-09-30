@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "debate": "./backend/app/graph/studio.py:graph"
+  },
+  "env": ".env"
+}

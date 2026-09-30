@@ -1,0 +1,24 @@
+{
+  "session_id": "studio-example",
+  "topic": "Educação básica e formação de professores",
+  "candidate_a": "lula",
+  "candidate_b": "flavio",
+  "current_phase": "SETUP",
+  "messages": [],
+  "turn_number": 0,
+  "max_turns": 1,
+  "debate_config": {
+    "candidate_a": "lula",
+    "candidate_b": "flavio",
+    "topic": "Educação básica e formação de professores",
+    "asks_first": "a",
+    "responds_first": "b",
+    "depth": 3,
+    "max_turns": 1,
+    "mode": "live",
+    "pause_after_round": false,
+    "style_mode": "expressive"
+  },
+  "execution_metadata": [],
+  "profiles": {}
+}

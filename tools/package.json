@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@boomship/postgres-vector-embedded": "^0.3.1",
+    "pg": "^8.23.0"
+  }
+}
